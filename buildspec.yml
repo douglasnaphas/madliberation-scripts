@@ -22,7 +22,7 @@ phases:
       - sed -i.bak 's/\$PARTITION\$/'${PARTITION}'/g;s/\$AWS_REGION\$/'${AWS_REGION}'/g;s/\$ACCOUNT_ID\$/'${ACCOUNT_ID}'/g;s/\$PROJECT_ID\$/'${PROJECT_ID}'/g' template-configuration.json
 
       # Deploy the scripts to the bucket
-      aws s3 sync --content-type "application/json" --delete scripts/ s3://madliberation-scripts/
+      - aws s3 sync --content-type "application/json" --delete scripts/ s3://madliberation-scripts/
 artifacts:
   type: zip
   files:
