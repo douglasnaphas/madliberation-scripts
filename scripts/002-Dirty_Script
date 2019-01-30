@@ -1,0 +1,19 @@
+{
+  "title": "Nasty Nastover",
+  "screens":
+  [
+    "This is a screen",
+    [
+      "This is a screen with a ",
+      {
+        "prompt":"thing",
+        "default":"problem"
+      },
+      ", and another ",
+      {
+        "prompt":"positive thing",
+        "default": "plum bucket"
+      }
+    ]
+  ]
+}
