@@ -1,10 +1,10 @@
 {
-  "Pages": [
+  "pages": [
     {
-      "Lines": [
+      "lines": [
         {
           "type": "h1",
-          "Segments": [
+          "segments": [
             {
               "type": "text",
               "text": "The simplest possible script"
