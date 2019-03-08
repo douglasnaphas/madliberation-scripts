@@ -1,6 +1,6 @@
 {
-  "name": "express-HelloWorld",
-  "description": "Hello World ExpressJS WebService",
+  "name": "madliberation-scripts",
+  "description": "Scripts for the Mad Liberation web app",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
