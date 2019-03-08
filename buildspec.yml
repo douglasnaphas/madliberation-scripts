@@ -8,7 +8,7 @@ phases:
 
       # Upgrade AWS CLI to the latest version
       - apt update
-      - apt-get install -y python-pip
+      - apt-get install -y python-pip python-dev build-essential libssl-dev libffi-dev libxml2-dev libxslt1-dev zlib1g-dev
       - pip install --upgrade awscli
   pre_build:
     commands:
