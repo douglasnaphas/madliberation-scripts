@@ -25,7 +25,7 @@ phases:
 
       # Create the .json scripts from the .txt files
       - mkdir deploy/
-      - for f in scripts/* ; do g=${f/#scripts/deploy} ; ./txt2json.js ${f} > ${g/%.md/.json} ; done
+      - for f in scripts/* ; do g=$(echo ${f} | sed 's/^scripts/deploy/' | sed 's/[.]md$/.json/'); ./txt2json.js ${f} > ${g} ; done
 
       # Deploy the scripts to the bucket
       - aws s3 sync --content-type "application/json" --delete deploy/ s3://madliberation-scripts/
