@@ -25,9 +25,10 @@ phases:
 
       # Create the .json scripts from the .txt files
       - mkdir deploy/
+      - for f in scripts/* ; do g=${f/#scripts/deploy} ; ./txt2json.js ${f} > ${g/%.md/.json} ; done
 
       # Deploy the scripts to the bucket
-      - aws s3 sync --content-type "application/json" --delete scripts/ s3://madliberation-scripts/
+      - aws s3 sync --content-type "application/json" --delete deploy/ s3://madliberation-scripts/
 artifacts:
   type: zip
   files:
