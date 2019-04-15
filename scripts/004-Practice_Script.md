@@ -36,7 +36,7 @@ Now that you get the hang of it, how about some actual information? We don’t w
 Mad Liberation was conceived as a way of having fun. Before computers, its inventors used to print out printed scripts on {{ archaic machines //  // Let’s use __. // steam engines }}, and pass around a deck of {{ things you could technically write on // bananas // We will write on __. // dry erase boards  }}. On these items, participants would answer questions with words and phrases.
 
 
-Then, during the reading phase of the Haggadah, individuals would pass around the printed script and the painstakingly assembled and sorted deck. When a blank appeared in the script, the reader would pause, {{ take a conspicuous action // quack like a duck // She would __ // blow trumpets }}, read the next answer from the deck, put it on the bottom the deck, keep reading the script, and repeat the cycle when the next 
+Then, during the reading phase of the Haggadah, individuals would pass around the printed script and the painstakingly assembled and sorted deck. When a blank appeared in the script, the reader would pause, {{ take a conspicuous action // quack like a duck // She would __ // blow trumpets }}, read the next answer from the deck, put it on the bottom the deck, keep reading the script, and repeat the cycle when the next blank appeared.
 
 
 This new incarnation of Mad Liberation is a virtual, tech-enabled, disruptive, {{ tech buzz word //  Big Data //  // industry-leading }} version of that. I think you get it.
