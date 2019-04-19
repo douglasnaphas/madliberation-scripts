@@ -33,6 +33,9 @@ Others will not.
 Now that you get the hang of it, how about some actual information? We don’t want this Practice Script to be {{ something non-informative // // This is __. // a blank space }}.
 
 
+[[ This is a stage direction, a Mad Liberation experimental feature. Don’t read this aloud. ]]
+
+
 Mad Liberation was conceived as a way of having fun. Before computers, its inventors used to print out printed scripts on {{ archaic machines //  // Let’s use __. // steam engines }}, and pass around a deck of {{ things you could technically write on // bananas // We will write on __. // dry erase boards  }}. On these items, participants would answer questions with words and phrases.
 
 
