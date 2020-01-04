@@ -2,11 +2,12 @@
 
 Scripts for Mad Liberation.
 
-## Terms
+## Overview
 
-- **Section**: a portion of the script read between passes. A seder proceeds like: read a Section, pass, read a Section, pass, and so on.
+`buildspec.yml` has commands that use `lib/script2json.js` to turn the scripts in `scripts/` into a JSON format consumable by [MLJSAPI](https://github.com/douglasnaphas/mljsapi), and put these JSON files into S3 for [passover.lol](https://github.com/douglasnaphas/madliberationjs) to find.
 
-## Syntax
+`madliberation-scripts` will soon also have a public web endpoint to undertake this transformation for anyone who makes a POST, to be used by the [Docs script/add-on](https://github.com/douglasnaphas/madliberation/issues/178) for script editing.
 
-- `#` means the document title, as in Markdown.
-- `##` means a **Section** title.
+## Running locally
+
+[These instructions](https://github.com/douglasnaphas/mljsapi/wiki/Running-MLJSAPI) apply.
