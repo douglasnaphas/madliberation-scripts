@@ -24,7 +24,31 @@ Globals:
       Role: !Ref CodeDeployRole
 
 Resources:
-  HelloWorld:
+  Txt2Json:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: index.handler
+      MemorySize: 3008
+      Runtime: nodejs12.x
+      Environment:
+        Variables:
+          NODE_ENV: production
+      Role:
+        Fn::GetAtt:
+          - LambdaExecutionRole
+          - Arn
+      Events:
+        PostEvent:
+          Type: Api
+          Properties:
+            Path: /
+            Method: post
+        OptionsEvent:
+          Type: Api
+          Properties:
+            Path: /
+            Method: options
+  Hello:
     Type: AWS::Serverless::Function
     Properties:
       Handler: index.handler
@@ -40,12 +64,12 @@ Resources:
         GetEvent:
           Type: Api
           Properties:
-            Path: /
+            Path: /hello
             Method: get
         PostEvent:
           Type: Api
           Properties:
-            Path: /
+            Path: /hello
             Method: post
   LambdaExecutionRole:
     Description: Creating service role in IAM for AWS Lambda
