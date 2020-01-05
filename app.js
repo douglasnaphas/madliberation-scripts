@@ -15,11 +15,14 @@ app.post('/hello', function(req, res) {
 });
 
 app.use(express.json());
+app.use('/', (req, res, next) => {
+  res.set({ 'Access-Control-Allow-Origin': '*' });
+  return next();
+});
 app.options('/', (req, res, next) => {
   res.set({
     'Content-Type': 'application/json',
-    'Access-Control-Allow-Headers': 'Content-Type',
-    'Access-Control-Allow-Origin': '*'
+    'Access-Control-Allow-Headers': 'Content-Type'
   });
   return next();
 });
