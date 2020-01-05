@@ -14,6 +14,18 @@ app.post('/hello', function(req, res) {
   });
 });
 
+app.use(express.json());
+app.options('/', (req, res, next) => {
+  res.set({
+    'Content-Type': 'application/json',
+    'Access-Control-Allow-Headers': 'Content-Type',
+    'Access-Control-Allow-Origin': '*'
+  });
+  return next();
+});
+app.options('/', (req, res, next) => {
+  return res.sendStatus(204);
+});
 app.post('/', txt2json);
 
 // Export your Express configuration so that it can be consumed by the Lambda handler
