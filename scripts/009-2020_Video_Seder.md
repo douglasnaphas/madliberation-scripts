@@ -2,9 +2,9 @@
 
 # A Very Socially Isolated Passover
 
-Friends, family, {{ a group of people other than friends and family // un-related non-friends // Those people are _. // strangers }}, others, we are gathered here tonight to celebrate {{ an event that has definitely not happened // the cloning of a dinosaur // _ has never happened. // talking plants }}. h
+Friends, family, {{ a group of people other than friends and family // un-related non-friends // Those people are _. // strangers }}, others, we are gathered here tonight to celebrate {{ an event that has definitely not happened // the cloning of a dinosaur // _ has never happened. // talking plants }}.
 
-Normally, Passover is a time of {{ something positive // gaiety // I am enjoying all of this _. // well-mannered frivolity }} and {{ edible things // pasta // You can eat _. // the contents of seder plates }}.
+Normally, Passover is a time of {{ something positive // gaiety // I am enjoying all of this (or these) ___. // well-mannered frivolity }} and {{ edible things // pasta // You can eat _. // the contents of seder plates }}.
 
 In today’s age of {{ something bizarre // purple warts // __ is/are crazy! // baby-eating dingos }} , it is important to remember that we {{ intransitive verb // stand // we __  over here // meditate }} together as one {{ noun // liver // That is a(n) ___ // elephant trunk }}.
 
@@ -12,7 +12,7 @@ To that end, we are gathered together by video conference.
 
 # # {{ Page }}
 
-Agenda | seder
+## Agenda | seder
 
 Anyway, let’s go over this {{ item // flatiron // the __ // bushel }}. Under ordinary circumstances, such as {{ an ordinary circumstance // a trip to the laundromat // The event was  ___.  // a garden-variety Passover }}, we would literally conduct all Passover activities together. In many cases, we will still be able to do these actions by ourselves, provided we have the required materials in our {{ places where people live // castles // Those people live in their ___. // provinces }}. For example, if you brought wine to our remote seder, you can drink it at the kadeish. If you have {{ an object // a hammer // I have  __. // a squid }}, you can {{ transitive verb (an action that is done to a thing) // thump // I will ___ it. // hump }} it at the koreich. If you don’t have these items, it doesn’t matter, because it’s all symbolic anyway!
 
@@ -62,7 +62,7 @@ The blessing over the wine is 100% necessary. You don’t want to miss the bless
 
     בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם,
 
-שֶׁהֶחֱיָנוּ וְקִיְּמָנוּ וְהִגִּיעָנוּ לַזְּמַן הַזֶּה:
+    שֶׁהֶחֱיָנוּ וְקִיְּמָנוּ וְהִגִּיעָנוּ לַזְּמַן הַזֶּה:
 
     Baruch Atah Adonai, Eloheinu Melech ha-olam,
 
@@ -70,31 +70,27 @@ The blessing over the wine is 100% necessary. You don’t want to miss the bless
 
 Now that you’ve blessed the sacrificial wine, let’s bring it home by saying the incredibly important ending phrase: {{ a fun phrase // Got Milk // I love the saying "_____"  // What goes up must come down}}
 
-Let us all now drink the wine.
+Let us all now drink the wine, like {{ someone who drinks wine // // // Tyrion Lannister }}.
 
 # # {{ Page }}
 
 # Shake ya glass, but wash yaself! | urchatz
 
-By now, your hands are likely covered in {{ something gross // vomit // ew, look at that ___ // fish eggs }}. If you don’t wash thoroughly before the end of this section, you will definitely get {{ a strange disease // leprosy // a case of ___ // boils }}. To be really safe, we should all wash our {{ body parts// feet // we have ___ // lips }}, scrub our {{ body parts// hips// we have ___ // neurons}} and sterilize our {{ body parts // intestines // we have ___ // spleens}}.
+By now, your hands are likely covered in {{ something gross // vomit // ew, it’s covered in ___ // fish eggs }}. If you don’t wash thoroughly before the end of this section, you will definitely get {{ a strange disease // leprosy // a case of ___ // boils }}. To be really safe, we should all wash our {{ body parts // feet // we have ___ // gums }}, scrub our {{ body parts // hips // we have ___ // neurons}} and sterilize our {{ body parts // intestines // we have ___ // spleens}}.
 
 Here is how we shall proceed.
 
-1. I will exclaim something.
+1. I will exclaim something, while pantomiming it.
 
 2. You will listen to it.
 
-3. {{ Someone in the video call tonight// // __ is here tonight // I }} will {{ take an inappropriate action // burp // He will __ // kvetch }}
+3. {{ Someone in the video call tonight // // __ is here tonight // I }} will {{ take an inappropriate action // burp // He will __ // kvetch }}.
 
-4. You will repeat the sacred phrase.
+4. You will repeat the sacred phrase and the pantomime.
 
-5. I will pantomime the action described by the sacred phrase, which is as yet unknown to me.
+And now, without further ado, the sacred, cleansing phrase commanded by God is….
 
-6. You will all follow in my pantomime.
-
-And now, without further ado, the sacred, cleansing phrase is….
-
-{{ transitive verb command // drive // ___ them! // lift }} those {{ things // marbles // you have ___ // manuscripts }}; make God {{ something you are told to do // do the dishes //  You have to __! // wash between your toes }}!”
+{{ transitive verb command // drive // ___ them! // lift }} those {{ things // marbles // you have ___ // manuscripts }}; {{ something you are told to do // do the dishes //  You have to __! // wash between your toes }}!”
 
 Now we’re all clean! We can start to begin thinking about maybe pondering having dinner.
 
@@ -120,22 +116,21 @@ And we begin with the Hebrew again:
 
     We praise God, Ruler of Everything, who creates the fruits of the earth.
 
-Lets dip this wonderful green {{ something green // Granny Smith Apple // I love how green this ___ is // Granny Smith Apple }}. I bet your wondering WHY we dip this delightful green...thing into salt water. There is a song that explains it. Listen…
+Lets dip this wonderful green {{ something green // Granny Smith Apple // I love how green this ___ is // Granny Smith Apple }}. I bet you're wondering WHY we dip this delightful green...thing into salt water. There is a song that explains it. Listen…
 
-[To the tune of “Mary had a little lamb”]
+[[ Sing to the tune of “Mary had a little lamb” ]]
 
-{{ Name that rhymes with “Mary” // Carrie // their name is ___  // Larry }} has a little herb
+    {{ Name that rhymes with “Mary” // Carrie // their name is ___  // Larry }} has a little herb
 
-Little herb
+    Little herb
 
-Little herb!
+    Little herb!
 
-{{ Name that rhymes with “Mary” // Gary // their name is ___  // Fairy}} has a little herb
+    {{ Name that rhymes with “Mary” // Gary // their name is ___  // Fairy}} has a little herb
 
-It tastes of {{ one-syllable word that rhymes with
-"piece" // geese // __ rhymes with "piece" // grease }} and {{ one-syllable thing with a long "o" sound in it // prose // __ // foam }}!
+    It tastes of {{ one-syllable word that rhymes with "piece" // geese // __ rhymes with "piece" // grease }} and {{ one-syllable thing with a long "o" sound in it // prose // // foam }}!
 
-And that is why we dip our green vegetables in saltwater
+And that is why we dip our green vegetables in saltwater - to remind us how agonizing it is to eat them.
 
 # # {{ Page }}
 
@@ -143,7 +138,7 @@ And that is why we dip our green vegetables in saltwater
 
 We are not eating, yet. We DO get to {{ transitive verb you do with your hands // touch // use your hands to ___ something // juggle }} our food though!
 
-We break our matzah to honor the broken-heartedness we hide during most of the year. According to another interpretation by the great Rabbi {{ Jewish-sounding name // Shmuel Baruchstein //  ____ // Shapiroberg }}, we break matzah in order to {{ something which is an honor to do // shine the president's shoes //  It is an honor to _____ // feed the starving }}.
+We break our matzah to honor the broken-heartedness we hide during most of the year. According to another interpretation by the great Rabbi {{ Jewish-sounding name // Shmuel Baruchstein //  ____ // Shapiroberg }}, we break matzah in order to break from our habit of {{ doing something we find embarrassing // walking with our fly down //   ___ is so embarrassing for us! // picking our noses in public }}.
 
 Whatever meaning you attribute to this act, it is {{ a celebrity // Kim Kardashian // ___ is famous // Madonna }} ‘s will that it be done.
 
@@ -157,7 +152,7 @@ At last, our moment has come. There is no blessing, there is no curse. Just snap
 
 # Pre-Pre-magid - What is this all about?
 
-Have you ever wondered why you are not a slave today? Have you ever wondered why, instead of {{ transitive verb // punishing   // you are __ it // licking }} your master’s {{ thing // bagel  // the __  // horseshoes}} every day, you get to {{ a thing you do in your spare time // chop wood without a shirt // i am happy to ___ // pressure cook beans }} and {{ a thing you would like to do // listen to music // i am happy to ___ // stretch my toes }} whenever you please?
+Have you ever wondered why you are not a slave today? Have you ever wondered why, instead of {{ verb ending in -ing // punishing   // you are __ it // licking }} your master’s {{ things someone purchases // bagels  // I bought some __  // horseshoes}} every day, you get to {{ a thing you do in your spare time // chop wood without a shirt // i am happy to ___ // pressure cook beans }} and {{ a thing you would like to do // listen to music // i am happy to ___ // stretch my toes }} whenever you please?
 
 The reason for your freedom lies in this holy tale. It is a hymn of {{ characteristic or emotion // courage  // a person of great __  // dignity}} and extreme {{ characteristic or emotion // courage  // a person of great __   // nudity }}, of how the hero of the Hebrews risked everything to free his people, with nothing but his mighty {{ something long // obelisk // that is a long ___ // broomstick }} and a little help from an omnipotent friend. And we will tell this story {{ a moment in time // now // we will celebrate this ___ // next year }}.
 
@@ -189,7 +184,7 @@ Fortunately, someone has already thrown us a shank bone and given us the right q
 
     בְּכָל הַלֵּילוֹת אֵין אָֽנוּ מַטְבִּילִין אֲפִילוּ פַּֽעַם אֶחָת.
 
-הַלַּֽיְלָה הַזֶּה שְׁתֵּי פְעָמִים:
+     הַלַּֽיְלָה הַזֶּה שְׁתֵּי פְעָמִים:
 
     Shebichol haleilot ain anu matbilin afilu pa-am echat. Halaila hazeh shtei pa-amim.
 
@@ -217,11 +212,11 @@ Here is the long and short of it: We were slaves in {{ a place // a park // here
 
 We got free and now we are grateful. What we will never be free of, however, is having to tell this story.
 
-# # {{ Page }}
-
 # Post-Pre-Magid: Think of the Children!
 
-Children are our future leaders and there are exactly 4 archetypes, so we can easily predict what they will say in any given situation. Of course, we want to encourage our children to define their own identities, so today we introduce…
+# {{ Page }}
+
+Children are our future leaders and there are exactly four (4) archetypes, so we can easily predict what they will say in any given situation. Of course, we want to encourage our children to define their own identities, so today we introduce…
 
 1. {{ a high-born sounding name // Eggleton // __ is my name // Cordelia }} the {{ adjective  // praiseworthy // it is ___ // polymorphic }} {{ professional title // doctor // i got hired as a(n) ___ // executive director }}. They represent all that is wise.
 
@@ -253,15 +248,15 @@ I’m only asking because I want to expand the seder franchise.
 
 Wise child, sit down. I got this. On the most BASIC level, God commands us to {{ take an action // lift the puppy // I am going to __ // create a docket }} before we {{ take an action // make a cake // I am going to __ // screw the pooch }}. This means that one may not EVER {{ take an action // sing // I am going to ___. // leave the chamber }} after {{ an event // the shrew parade // I attended ___. // the taming of the shrew }}. I know that sounds complicated, but fortunately there are three categories of sub-laws to clarify God’s position. They are:
 
-#### Chukim
+### Chukim
 
 These are the most unreasonable and nonsensical laws that you would never generate on your own, like “don’t mix wool with linen” and, “ {{ A weird piece of advice // Don’t put BBQ sauce in your pants //  // Always sit on the butter before you eat it }},” and of course, {{ An inexplicably strange law // Don’t use paper in February // // Don’t churn butter in the bathroom  }}.
 
-#### Edot
+### Edot
 
-These are the reasonable-but-not-necessarily intuitive laws, like {{ an obscure, but reasonable biblical law // thou shalt milk the cow three times // ___ // honor thy neighbor's garbage }}. These also encompass law commanding you to celebrate Shabbat, Festivals, and Important Rites of Passage, such as {{ a rite of passage // learning to ride a bike //  // the first time eating solid food }}.
+These are the reasonable-but-not-necessarily intuitive laws, like {{ an obscure, but reasonable biblical law // thou shalt milk the cow three times // ___ // honor thy neighbor's garbage }}. These also encompass laws commanding you to celebrate Shabbat, Festivals, and Important Rites of Passage, such as {{ a rite of passage // learning to ride a bike //  // the first time eating solid food }}.
 
-#### Mishpatim
+### Mishpatim
 
 These are the Intuitive Laws, like don’t get caught stealing, or {{ something you’d probably get in trouble for if you were caught by your parents // watching too much TV // I got grounded for__ // punching your brother in his private parts}}.
 
@@ -271,15 +266,15 @@ Do you get it now?? The laws of Pesach should make total sense to you at this po
 
 ## The Wicked Child’s Question
 
-{{ an annoying thing to say to get attention // Yo, losers! // ___ // Pickle my feet, Piglets! }}!
+{{ An annoying thing to say to get attention // Yo, losers! // ___ // Pickle my feet, Piglets! }}!
 
-I don’t care about you or any of my so-called people! All I wanna do is {{ take an action // sell stocks // I am going to ___ // hunt pandas }}. And eat {{ something edible // buttercream // he will eat___ // nutter butters }} in my {{ something you own // hat // check out my __ // socks }}.
+I don’t care about you or any of my so-called people! All I wanna do is {{ take an action // sell stocks // I am going to ___ // hunt pandas }}, and eat {{ something edible // buttercream // he will eat___ // nutter butters }} in my {{ something you own // hat // check out my __ // socks }}.
 
-Hey, {{ someone in this videoconference //  //  // Vinny }}, you look like you just crawled out of {{ a place // The National Constitution Center // __ is a place // Marsden's toilet }} and {{ someone in this videoconference //  //  // Andi }} you look like you just got done {{ verb ending in -ing // swimming // look at her, ___ over there // prancing }} on {{ a place something could rest on // the dining room table // he put it on ___ // Lincoln's upper lip }}.
+Hey, {{ someone in this videoconference //  //  // Vinny }}, you look like you just crawled out of {{ a place // The National Constitution Center // __ is a place // Marsden's toilet }} and {{ someone in this videoconference //  //  // Andi }} you look like you just got done {{ verb ending in -ing // swimming // look at it, ___ over there // prancing }} on {{ a place something could rest on // the dining room table // he put it on ___ // Lincoln's upper lip }}.
 
 So why should a {{ a living or non-living thing // peach tree // it is a(n) __ // weasel }} like me care about Passover?
 
-And what’s up with these so called “commands?” And who is making us do all this - , {{ someone who gives or has given commands // the chief of police //  // Genghis Khan }}? Like, why do i have to {{ A complaint in present tense // go to school today // He was annoyed because he had to ____ // take my grandmother to church}} tonight?
+And what’s up with these so called “commands?” And who is making us do all this - , {{ someone who gives or has given commands // the chief of police //  // Genghis Khan }}? Like, why do i have to {{ A complaint in present tense // go to school today // I am annoyed because I have to ____ // take my grandmother to church}} tonight?
 
 What does all this mean to YOU?!
 
@@ -323,11 +318,11 @@ Pick one, and then let’s hear from your sibling, the child who learned how to 
 
 ## # {{ Page }}
 
-## The Child-who-knows-not-how-to-ask-a-question’s Question
+## The Child-Who-Knows-Not-How-to-Ask-a-Question’s Question
 
-Ha ray bahray tel ab et terrah. Nori weldicans, sming diggle {{ gibberish phrase // geng di boot wumph //  // gleg shifty tarley memdi katch ingoo}}. Schlups? SCHLUPS??? Crem benna ding, renna ren {{ US City // Las Vegas // the great city of __ // Indianapolis}} piddle shakey.
+Ha ray bahray tel ab et terrah. Nori weldicans, sming diggle {{ gibberish phrase // geng di boot wumph //  // gleg shifty tarley memdi katch ingoo}}. Schlups? SCHLUPS??? Crem benna ding, renna ren {{ US City // Las Vegas // the great city of __ // Indianapolis}}?.
 
-Zing wish flooby? Helta cling {{ character in book or movie // Peter Pan // // Cinderella}} fish mish da lish!
+Zing wish flooby? Helta cling {{ character in book or movie // Peter Pan // // Cinderella}} fish pho?!
 
 ## # {{ Page }}
 
@@ -345,13 +340,13 @@ However, for our ancestors long, long ago in the land of Egypt, it was never eno
 
 בָדִים הָיִינוּ הָיִינוּ. עַתָּה בְּנֵי חוֹרִין:
 
-Avadim hayinu. Ata b’nei chorin.
+    Avadim hayinu. Ata b’nei chorin.
 
 # # {{ Page }}
 
 # The Mad Liberation | magid
 
-Blessedly, we have reached the part of the seder that always stays the same, like {{ something that always stays the same //  //  // Pope Constantine }}. It is a tale as old as time itself, and as {{ adjective // wordy  //  // smelly }} as {{ something smelly // fish  // __ is/are smelly  // frogs }}. Indeed, the story of Moses and his good deeds is the same whether told in person, {{ in a place // at the drive-in // I am __. // in Florence }}, or on a video call.
+Blessedly, we have reached the part of the seder that always stays the same, like {{ something that always stays the same //  //  // Pope Constantine }}. It is a tale as old as time itself, and as {{ adjective attributed to something rotten // moldy //  // smelly }} as {{ something smelly // fish  // __ is/are smelly  // frogs }}. Indeed, the story of Moses and his good deeds is the same whether told in person, {{ in a place // at the drive-in // I am __. // in Florence }}, or on a video call.
 
 Long ago, being a Jew was not easy. Indeed, we were slaves, all because the wicked Pharaoh feared our great numbers, especially our {{ a great number // seventy //  // three }} and our {{ a number // eleven million //  // zero }}. Forced to {{ perform a professional service // prepare tax returns // it’s an honor to__  // do the landscaping for the Met }}, we lived in misery. Even worse, we had to design, build, and maintain {{ something found in Egypt // the pyramids //  // sacred cats }}.
 
@@ -363,7 +358,7 @@ But one day, a young boy was born who would solve everything.
 
 The Hebrew boy Moses was born on death row, and the first thing he did was get pretend-executed.
 
-He floated down the {{ something long and flat // shuffleboard table  //  // abyss }} in a boat made of {{ items // toothbrushes //  // ironing boards }}, and beached on the beach, where he was found by Pharaoh’s {{ type of person // personal trainer // This is my ___. // math inventor }}.
+He floated down the long {{ something long and flat // shuffleboard table  //  // abyss }} in a boat made of {{ items // toothbrushes //  // ironing boards }}, and beached on the beach, where he was found by Pharaoh’s {{ type of person // personal trainer // This is my ___. // math inventor }}.
 
 “He looks like a young {{ name of a celebrity // Harrison Ford // Watch out, that's ___. // Timothée Chalamet }},” she cried. “I will raise him as my own. I just hope he grows up to be {{ a practitioner of an occupation // a dentist //  // a product support specialist }}.”
 
@@ -375,15 +370,15 @@ Moses took full responsibility. He announced, “{{ A speech you would give to a
 
 ## Easter’s coming, so save our peeps!
 
-Midian was {{ adjective // bad //  // lit }}. Moses got to {{ verb // eat //  // spin }} all day with his {{ occupation // architect //  // gardener }}, like one does. He even found somebody to multiply with. We’re all related to them.
+Midian was {{ adjective // bad //  // lit }}. Moses got to {{ verb // eat //  // spin }} all day with his personal {{ occupation // architect //  // gardener }}, like one does. He even found somebody to multiply with. We’re all related to them.
 
-Anyway, Moses went out for a {{ noun // // // thing }} and saw a burning {{ flammable object //  //  // whale fat }}. He killed the Egyptians who started the fire, and it spoke, introducing itself as God.
+Anyway, Moses went out for a {{ noun // // a __ is a person, place, or thing // thing }} and saw a burning {{ flammable object // block of whale fat // a(n) ___  // matchstick }}. He killed the Egyptian who he thought started the fire, and the burning thing spoke, introducing itself as God.
 
 “Thou shalt not kill,” it said.
 
-“Do you know who {{ expletive // Gosh //  // damn }} I am?” asked Moses.
+“Too soon,” said Moses. “And too late…”
 
-“No,” said God, “but get ye unto Egypt and plague Pharaoh into freeing the Jews.”
+“Fine,” said God, “then get ye unto Egypt and plague Pharaoh into freeing the Jews.”
 
 And Moses took his {{ piece of equipment // canteen //  // vorpal sword }} in hand, his rod/staff in his other hand, his {{ piece of equipment // carabiner //  // pickaxe }} balanced on his head, and rode his {{ animal // dragon //  // ass }} back to Egypt illegally, where he freed the Jews and led us to the Israel area, where we all lived happily ever after. After the next twenty pages of events.
 
@@ -405,7 +400,7 @@ Moses introduced the coming plagues by saying, “{{ A polite way of telling peo
 
 The people got really tired of {{ doing something you normally do with water // bathing //  // taking their probiotics }} with blood, and of cooking their {{ something you cook in water // couscous //  // kidney beans }} with it.
 
-Pharaoh, though, still had water, as everyone’s blood had been turned into water. Moreover, Pharaoh explained that changing the river into blood was a well-known Egyptian parlour trick, like {{ a parlour trick //  //  // turning your tongue upside-down }}.
+Pharaoh, though, still had water, as everyone’s blood had been turned into water. Moreover, Pharaoh explained that changing the river into blood was a well-known Egyptian parlour trick, like {{ a parlour trick // //  // turning your tongue upside-down }}.
 
 To prove his point, all Pharaoh’s assistants then also transformed the river into blood, which was kind of easy given that the river was already blood, and Pharaoh hunkered down for the next plague.
 
@@ -433,7 +428,7 @@ Ok, next plague.
 
 ### Wild Animals | arov
 
-Unfortunately for the plaguer-hating Pharaoh, the lice had wild animals on them. One of the lice, {{ a name a lice would have //  //  // Bryce }}, was infested with {{ wild animals // bison //  // wombats }}. The {{ wild animals // bears //  // capybaras }}, {{ wild animals // lions //  // cobras }}, and especially the {{ wild animals // tigers //  // civets }} rampaged through the {{ public space // park //  // thoroughfare }}, invaded the {{ local business // cake shop //  // bar }}, and didn’t buy anything. The lice left.
+Unfortunately for the plaguer-hating Pharaoh, the lice had wild animals on them. One of the lice, {{ a name a louse (singular of lice) would have //  //  // Bryce }}, was infested with {{ wild animals // bison //  // wombats }}. The {{ wild animals // bears //  // capybaras }}, {{ wild animals // lions //  // cobras }}, and especially the {{ wild animals // tigers //  // civets }} rampaged through the {{ public space // park //  // thoroughfare }}, invaded the {{ local business // cake shop //  // bar }}, and didn’t buy anything. The lice left.
 
 Unfortunately for God, Pharaoh simply enslaved the animals. Unfortunately for the animals, Pharaoh doubled their burdens. It hurt all the more because they had known what it was to live free.
 
@@ -499,7 +494,7 @@ And so God decided to do something pretty drastic and off-brand.
 
     Well take notes, Pharoah, you’re about to learn,
 
-    When I go and kill all of your {{ Person/place/thing that rhymes with “first born” //  // // worst porn}}.
+    When I go and kill all of your {{ Person, place, or thing that rhymes with “first born” //  // // worst porn}}.
 
 Pharaoh said, “Did you mean, ‘first born’?”
 
@@ -519,7 +514,7 @@ Pharaoh: “Ohhh, you were asking about ‘the Jews?’ This whole time? Sure, t
 
 ### Freedom!!!
 
-So the Jews were freed. They told God they were going into the wilderness to worship Him, then headed to the {{ body of water // Atlantic ocean // //  Bahamas }} to party and hook up.
+So the Jews were freed. They told God they were going into the wilderness to worship Him, then headed to the {{ body of water // Atlantic ocean // we’re going to __  //  Bahamas }} to party and hook up.
 
 Later on, Pharoah got to thinking, “If i don’t have slaves, i’m gonna have to mummify...MYSELF. I don’t even have a son anymore to do it for me.”
 
@@ -547,15 +542,15 @@ This is summed up best in a 5-minute song.
 
 אִלּוּ הוֹצִיאָֽנוּ מִמִּצְרַֽיִם, דַּיֵּנוּ:
 
-Ilu hotzianu mi-mitzrayim, Dayeinu
+    Ilu hotzianu mi-mitzrayim, Dayeinu
 
-If God had only taken us out of Egypt, that would have been enough!
+    If God had only taken us out of Egypt, that would have been enough!
 
 אִלּוּ נָתַן לָֽנוּ אֶת־הַתּוֹרָה, דַּיֵּנוּ:
 
-Ilu natan lanu et ha-Torah, Dayeinu
+    Ilu natan lanu et ha-Torah, Dayeinu
 
-If God had only given us the Torah, that would have been enough.
+    If God had only given us the Torah, that would have been enough.
 
 אִלּוּ הוֹצִיאָֽנוּ מִמִּצְרַֽיִם, דַּיֵּנוּ:
 
@@ -579,11 +574,11 @@ This, my Jews, is a {{handheld item // coffee cup // I am holding a ___// digita
 
 [[ STAGE DIRECTION: Hold up some proverbial matzah, or pretend to ]]
 
-This is a {{flat thing// land// The earth is as flat as a___// carpet}}. It’s probably the most famous passover symbol. Even my christian friend, {{Definietly not a jewish name // John Paul// I saw my priest_ at the mall today//Jesus Christ}} knows what this is! It represents the settling for the next best thing.
+This is a {{flat thing// plate // The earth is as flat as a___// rug }}. It’s probably the most famous passover symbol. Even my goy friend, {{a flamboyant name // Tessa the best dressa // // Rupaul}} knows what this is! It represents settling for the next best thing.
 
 [[ STAGE DIRECTION: Hold up some proverbial maror (horseradish), or pretend to ]]
 
-Lastly, but not the last thing before we eat, this piece of {{a barely edible item// this__ // // tuna fish}}, is a bitter herb. It symbolizes the bitterness of slavery and of having to wait 25 hours to eat dinner.
+Lastly, but not the last thing before we eat, this {{a barely edible item// this __ // // tuna fish}}, is a bitter herb. It symbolizes the bitterness of slavery and of having to wait 25 hours to eat dinner.
 
 # # {{ Page }}
 
@@ -605,11 +600,11 @@ They say you shouldn’t {{ do an unclean act // make a mud castle // I am going
 
 As we pretend to wash our hands, say this with me. Do NOT sing this.
 
-בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֹתָיו, וְצִוָּנוּ
+    בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֹתָיו, וְצִוָּנוּ
 
 עַל נְטִילַת יָדָֽיִם:
 
-Baruch Atah Adonai, Eloheinu Melech ha-olam, asher kid’shanu b’mitzvotav v’tzivanu
+    Baruch Atah Adonai, Eloheinu Melech ha-olam, asher kid’shanu b’mitzvotav v’tzivanu
 
 al n’tilat yadayim.
 
@@ -625,7 +620,7 @@ So, to keep with tradition, please do this so that we may move forward.
 
 Ok now, everyone hold up some matzoh while we all sing to bless this breadless bread.
 
-    בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, הַמּוֹצִיא לֶֽחֶם מִן הָאָֽרֶץ:
+     בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, הַמּוֹצִיא לֶֽחֶם מִן הָאָֽרֶץ:
 
     Baruch Atah Adonai, Eloheinu Melech ha-olam, hamotzi lechem min ha-aretz.
 
@@ -691,13 +686,13 @@ Please have your third glass of wine (we hope you didn’t have any more wine du
 
 Elijah can not only open doors, but he can get into a zoom meeting without the password. He’s here right now. Pour him a drink and tell him how your really feel. Repeat after me.
 
-Thank you elijah for being such a(n)c {{ adjective // funny // // awful }} spirit.
+Thank you Elijah for being such a(n) {{ adjective // funny // // awful }} spirit.
 
 Everyone!
 
-Thank you elijah for being such a(n) (adjective from above) spirit.
+Thank you Elijah for being such a(n) (adjective from above) spirit.
 
-Now lets sing!
+Now let's sing!
 
 אֵלִיָּֽהוּ הַנָּבִיא, אֵלִיָּֽהוּ הַתִּשְׁבִּי,
 
@@ -733,7 +728,7 @@ Now lets sing!
 
 ## The FOURTH glass of wine
 
-As we drink this last cup of wine, we contemplate what we want for this year. I, for one, want {{ a thing I want // money // he wants ____ // tacos }}. As we sing, we praise God, we appreciate one another, and we cherish the time we have together and the memories we create. And this fucking long sedar we write every year.
+As we drink this last cup of wine, we contemplate what we want for this year. I, for one, want {{ a thing I want // money // he wants ____ // tacos }}. As we sing, we praise God, we appreciate one another, and we cherish the time we have together and the memories we create. And this lengthy Haggadah we write every year.
 
     בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הַגָּפֶן:
 
@@ -744,3 +739,5 @@ As we drink this last cup of wine, we contemplate what we want for this year. I,
     לְשָׁנָה הַבָּאָה בִּירוּשָׁלָֽיִם:
 
     L’shana haba-ah biy’rushalayim!
+
+    Next year in person!
