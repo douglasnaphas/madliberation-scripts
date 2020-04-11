@@ -160,9 +160,11 @@ Before we do anything that gets us closer to eating, we must think about why we 
 
 # # {{ Page }}
 
-# Pre-magid - The REAL Questions
+# Pre-magid - The REAL Questions (read by the youngest present)
 
-We Jews are a questioning people. Why are we doing this? Where did it all start? {{ a question a child would ask // where do babies come from? // ___? // when is dinner? }} ? {{ a ridiculous question // why is your mouth full of coal? // ___? // who dealt it? }} ?
+[[ Stage direction: Identify the youngest individual present, and cede control of the seder them. They read the following: ]]
+
+We Jews are a questioning people, and I’m a tiny baby. Why are we doing this? Where did it all start? {{ a question a child would ask // where do babies come from? // ___? // when is dinner? }}? {{ a ridiculous question // why is your mouth full of coal? // ___? // who dealt it? }}?
 
 Fortunately, someone has already thrown us a shank bone and given us the right questions to ask tonight. We can sing them together in perfect Hebrew.
 
@@ -204,7 +206,9 @@ Why do we dip not once, but {{ a number greater than 1 // 1.5 // __ is great tha
 
 Why do we recline, and not {{ verb // swim  // he likes to __ // staple papers }} all night long?
 
-Our answers will come, dear friends. We have many hours together.
+[[ Stage direction: Youngest, yield control back to the grown-up who yielded unto thee. ]]
+
+# {{ Page }}
 
 # Pre-Post-Pre-magid - Answering the Questions
 
