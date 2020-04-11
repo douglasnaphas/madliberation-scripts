@@ -212,9 +212,9 @@ Here is the long and short of it: We were slaves in {{ a place // a park // here
 
 We got free and now we are grateful. What we will never be free of, however, is having to tell this story.
 
-# Post-Pre-Magid: Think of the Children!
-
 # {{ Page }}
+
+# Post-Pre-Magid: Think of the Children!
 
 Children are our future leaders and there are exactly four (4) archetypes, so we can easily predict what they will say in any given situation. Of course, we want to encourage our children to define their own identities, so today we introduce…
 
