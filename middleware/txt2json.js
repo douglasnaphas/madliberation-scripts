@@ -15,6 +15,8 @@ const txt2json = [
   },
   (req, res, next) => {
     console.log("middleware/txt2json: logging...");
+    console.log("middleware/txt2json: req.body.text:");
+    console.log(req.body.text);
     let data;
     try {
       data = script2json.parse(req.body.text);
