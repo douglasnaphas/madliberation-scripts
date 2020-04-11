@@ -13,7 +13,7 @@ Parameters:
   Stage:
     Type: String
     Description: The name for a project pipeline stage, such as Staging or Prod, for which resources are provisioned and deployed.
-    Default: ''
+    Default: ""
 
 Globals:
   Function:
@@ -30,6 +30,7 @@ Resources:
       Handler: index.handler
       MemorySize: 3008
       Runtime: nodejs12.x
+      Timeout: 60
       Environment:
         Variables:
           NODE_ENV: production
@@ -75,7 +76,7 @@ Resources:
     Description: Creating service role in IAM for AWS Lambda
     Type: AWS::IAM::Role
     Properties:
-      RoleName: !Sub 'CodeStar-${ProjectId}-Execution${Stage}'
+      RoleName: !Sub "CodeStar-${ProjectId}-Execution${Stage}"
       AssumeRolePolicyDocument:
         Statement:
           - Effect: Allow
@@ -85,4 +86,4 @@ Resources:
       Path: /
       ManagedPolicyArns:
         - arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
-      PermissionsBoundary: !Sub 'arn:${AWS::Partition}:iam::${AWS::AccountId}:policy/CodeStar_${ProjectId}_PermissionsBoundary'
+      PermissionsBoundary: !Sub "arn:${AWS::Partition}:iam::${AWS::AccountId}:policy/CodeStar_${ProjectId}_PermissionsBoundary"
