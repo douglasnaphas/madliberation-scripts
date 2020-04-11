@@ -202,9 +202,9 @@ Why do we eat {{ adjective // burnt // this is ___ // befuddled }} bread?
 
 Why do we eat herbs so {{ unpleasant descriptive language // disgusting // ew, it’s ___ // nasty}}?
 
-Why do we dip not once, but {{ a number greater than 1 // 1.5 // __ is great than 1 // 4 million }} times?
+Why do we dip not once, but {{ a number greater than 1 // 99.8 // __ is great than 1 // 1.5 }} times?
 
-Why do we recline, and not {{ verb // swim  // he likes to __ // staple papers }} all night long?
+Why do we recline, and not {{ verb phrase // swim the English Channel // he likes to __ // staple papers }} all night long?
 
 [[ Stage direction: Youngest, yield control back to the grown-up who yielded unto thee. ]]
 
