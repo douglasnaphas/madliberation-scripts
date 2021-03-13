@@ -15,7 +15,7 @@ CONTENT_FILE_PATH='./content.json'
   --bucket-name ${BUCKET_NAME} \
   --content-file-path ${CONTENT_FILE_PATH}
 echo $?
-mkdir deploy
+mkdir -p deploy
 for f in scripts/*
 do
   g=$(echo ${f} | sed 's/^scripts/deploy/' | sed 's/[.]md$/.json/')
