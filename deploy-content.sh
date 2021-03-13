@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -e
 STACKNAME=$(npx @cdk-turnkey/stackname@1.1.0 --suffix webapp)
 TABLE_NAME=$(aws cloudformation describe-stacks \
   --stack-name ${STACKNAME} | \
