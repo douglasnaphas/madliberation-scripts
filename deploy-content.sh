@@ -14,6 +14,7 @@ CONTENT_FILE_PATH='./content.json'
   --table-name ${TABLE_NAME} \
   --bucket-name ${BUCKET_NAME} \
   --content-file-path ${CONTENT_FILE_PATH}
+echo $?
 mkdir deploy
 for f in scripts/*
 do
