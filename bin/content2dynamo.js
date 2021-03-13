@@ -27,4 +27,11 @@ const { tableName, bucketName, contentFilePath } = program.opts();
 console.log(tableName);
 console.log(bucketName);
 console.log(contentFilePath);
-content2dynamo(tableName, bucketName, contentFilePath);
+const dbResponse = content2dynamo(tableName, bucketName, contentFilePath);
+console.log("bin/content2dynamo: dbResponse:");
+console.log(dbResponse);
+if (dbResponse.madliberation_error) {
+  console.log("bin/content2dynamo: batchWriting metadata failed, err:");
+  console.log(dbResponse);
+  process.exit(1);
+}
