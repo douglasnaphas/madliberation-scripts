@@ -23,9 +23,8 @@ program
   )
   .parse(process.argv);
 const opts = program.opts();
-console.log(opts);
 const { tableName, bucketName, contentFilePath } = program.opts();
 console.log(tableName);
 console.log(bucketName);
 console.log(contentFilePath);
-// content2dynamo(tableName, bucketName, contentFilePath);
+content2dynamo(tableName, bucketName, contentFilePath);
