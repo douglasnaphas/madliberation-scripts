@@ -1,16 +1,31 @@
 #!/usr/bin/env node
-
 const program = require("commander");
-const content2json = require("../lib/content2dynamo");
-
+const content2dynamo = require("../lib/content2dynamo");
 program
-  .command("./content2dynamo.js")
+  .name("./content2dynamo.js")
   .version("1.0.0")
-  .usage("<file>")
+  .description(
+    "Put script metadata transformed from FILE, about scripts " +
+      "stored in BUCKET, in TABLE."
+  )
+  .requiredOption(
+    "-t, --table-name <TABLE>, The name of the DynamoDB table " +
+      "to put items in, example: -t MyTable123"
+  )
+  .requiredOption(
+    "-b, --bucket-name <BUCKET>, The name of the S3 bucket " +
+      "where script JSON is stored, example: -s MyBucket345"
+  )
+  .requiredOption(
+    "-c, --content-file-path <FILE>, The path to a file like " +
+      "content.json in this repo with data about scripts to be saved," +
+      " example: -c './my-content.json'"
+  )
   .parse(process.argv);
-if (process.argv.length < 3) {
-  console.log("error: no <file> specified");
-  process.exit(1);
-}
-const f = process.argv[2];
-console.log(content2json.parseFile(f));
+const opts = program.opts();
+console.log(opts);
+const { tableName, bucketName, contentFilePath } = program.opts();
+console.log(tableName);
+console.log(bucketName);
+console.log(contentFilePath);
+// content2dynamo(tableName, bucketName, contentFilePath);

@@ -14,7 +14,7 @@
                 "S": "script#AAAAAD"
             },
             "path": {
-                "S": "madliberation-scripts/004-Practice_Script"
+                "S": "004-Practice_Script"
             },
             "is_script": {
                 "N": "1"
@@ -40,7 +40,7 @@
                 "S": "script#AAAAAF"
             },
             "path": {
-                "S": "madliberation-scripts/006-2019_Script"
+                "S": "006-2019_Script"
             },
             "is_script": {
                 "N": "1"
@@ -66,7 +66,7 @@
                 "S": "script#AAAAAG"
             },
             "path": {
-                "S": "madliberation-scripts/007-2019_Magid"
+                "S": "007-2019_Magid"
             },
             "is_script": {
                 "N": "1"
@@ -92,7 +92,7 @@
                 "S": "script#AAAAAH"
             },
             "path": {
-                "S": "madliberation-scripts/008-2019_4_Sons"
+                "S": "008-2019_4_Sons"
             },
             "is_script": {
                 "N": "1"
@@ -118,7 +118,7 @@
                 "S": "script#AAAAAI"
             },
             "path": {
-                "S": "madliberation-scripts/009-2020_Video_Seder"
+                "S": "009-2020_Video_Seder"
             },
             "is_script": {
                 "N": "1"
