@@ -109,28 +109,6 @@
         }
       }
 
-      function downloadFunction(input) {
-        var blob = new Blob([input], { type: "octet/stream" }),
-          url = window.URL.createObjectURL(blob);
-
-        $("#download-script").attr("href", url);
-        $("#download-script").attr("target", "_blank");
-
-        // target filename
-        $("#download-script").attr("download", "my-download.json");
-      }
-
-      function downloadFunctionMD(input) {
-        var blob = new Blob([input], { type: "octet/stream" }),
-          url = window.URL.createObjectURL(blob);
-
-        $("#generate-script-md").attr("href", url);
-        $("#generate-script-md").attr("target", "_blank");
-
-        // target filename
-        $("#generate-script-md").attr("download", "my-download.txt");
-      }
-
       // register click handlers
       $(function () {
         $("#create-lib-button").click(function () {
@@ -150,9 +128,6 @@
               $("#default-textarea").val() +
               " }}"
           );
-        });
-        $("#download-script").click(function () {
-          google.script.run.withSuccessHandler(downloadFunction).exportScript();
         });
         $("#generate-script-md").click(function () {
           google.script.run
