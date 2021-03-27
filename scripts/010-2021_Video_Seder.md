@@ -310,7 +310,7 @@ These are the most unreasonable and nonsensical laws that you would never genera
 
 ### Edot
 
-These are the reasonable-but-not-necessarily intuitive laws, like {{ an obscure, but reasonable biblical law // thou shalt milk the cow three times // ___ // honor thy neighbor's garbage }}. These also encompass laws commanding you to celebrate Shabbat, Festivals, and Important Rites of Passage, such as {{ a rite of passage // learning to ride a bike //  // the first time eating solid food }}.
+These are the reasonable-but-not-necessarily intuitive laws, like {{ an obscure, but reasonable Biblical law // thou shalt milk the cow three times // ___ // honor thy neighbor's garbage }}. These also encompass laws commanding you to celebrate Shabbat, Festivals, and Important Rites of Passage, such as {{ a rite of passage // learning to ride a bike //  // the first time eating solid food }}.
 
 ### Mishpatim
 
@@ -518,7 +518,7 @@ Pharaoh, though, still had water, as everyone’s blood had been turned into wat
 
 With renewed determination, so spake Moses “{{ An ominous statement // Prepare for the worst //  // To thee, this day, I send a thousand travails }}”.
 
-Suddenly, there were frogs {{ inside a place where you wouldn’t want to find frogs // in your underwear // I’m upset because there are frogs  _. // in the dishwasher }} and {{a place upon which you would be upset to find frogs // on every credenza // I can’t believe there are frogs _. // on the dining room table }} and {{ a place behind or underneath which you would be upset to find frogs // under mother’s robes // I am shocked there are frogs _. // behind the fertility statues}}.
+Suddenly, there were frogs {{ inside a place where you wouldn’t want to find frogs // in your underwear // I’m upset because there are frogs  _. // in the dishwasher }}, frogs {{ on a place upon which you would be upset to find frogs // on every credenza // I can’t believe there are frogs _. // on the dining room table }}, and frogs {{ in a place where you would be upset to find frogs // under mother’s robes // I am shocked there are frogs _. // behind the fertility statues}}.
 
 That wasn’t terrible.
 
