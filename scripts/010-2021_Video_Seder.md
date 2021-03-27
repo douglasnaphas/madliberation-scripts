@@ -142,7 +142,7 @@ You’re clean! Well, cleaner than you were. How will you utilize your newfound 
 
 # {{ Page }}
 
-Dipping a spring vegetable in water | Karpas
+## Dipping a spring vegetable in water | Karpas
 
 If you’re a {{ type of vegetable, doing something vegetables do // cucumber, suspended in fancy water //  // P.O.T.A.T.O. (Person Over Thirty Acting Twenty-One) }}, this is where you start to get nervous. Or excited. Or just wet.
 
@@ -714,7 +714,7 @@ We now sing as we spread delicious charoset and religiously-significant (kinda g
 
 ## Eat, but not the meal | koreich
 
-We now eat this {{ collection of foods that doesn’t go together well // cream cheese popsicle // after trying a ____ he decided he wouldn’t eat that ever again // cream cheese tuna popsicle }} as our ancestors did before us. In the words of the great Rabbi {{ Jewish-sounding name // Shmuel Baruchstein //  ____ // Shapiroberg }}, this symbolizes {{ something bittersweet // saying goodbye // // sweet sorrow }}.
+We now eat this {{ collection of foods that doesn’t go together well // cream cheese popsicle // after trying a ____ he decided he wouldn’t eat that ever again // cream cheese tuna popsicle }} as our ancestors did before us. In the words of the great Rabbi {{ very Jewish-sounding name // Shmuel Baruchstein //  ____ // Shapiroberg }}, this symbolizes {{ something bittersweet // saying goodbye // // sweet sorrow }}.
 
 ## # {{ Page }}
 
