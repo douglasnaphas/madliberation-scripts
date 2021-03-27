@@ -26,7 +26,7 @@ Today, we celebrate one consolidated Spring Festival: Passover. Passover is belo
 
 ## Agendums
 
-You may not conform to a gender, but tonight you will conform to an agenda. We are all conformists for God. You will also sing the agenda for we are all {{ a famous singer // Mavis Staples //  // Gloria Estefan }} in the eyes of God. And our song goes:
+You may not conform to a gender, but tonight you will conform to an agenda. We are all conformists for God. You will also sing the agenda, for we are all {{ a famous singer // Mavis Staples //  // Gloria Estefan }} in the eyes of God. And our song goes:
 
 [[Sing the following. If you don’t know the tune, an informed Jew at this seder will probably rescue you.]]
 
@@ -88,7 +88,7 @@ Yay, agenda! To summarize for those who did not comprehend, we are about to:
 
 14. Repeat. In a year. In person!
 
-Seriously, I can’t wait to {{ do something you are looking forward to doing once we get back to in-person seders again // sing face-to-face with my friends and family // I can't wait to _ at next year's seder. // eat sephardic charosets made by someone else }} again.
+Seriously, I can’t wait to {{ do something you are looking forward to doing once we get back to in-person seders again // sing face-to-face with my friends and family // I can't wait to _ at next year's seder. // eat Sephardic charosets made by someone else }} again.
 
 # {{ Page }}
 
@@ -110,7 +110,7 @@ The time for the first cup of wine is almost upon us. If you don’t have Passov
 
 Let us bless before we imbibe.
 
-    בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הַגָּפֶן:
+בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הַגָּפֶן:
 
     Baruch Atah Adonai, Eloheinu Melech ha-olam, borei p’ree hagafen.
 
@@ -128,7 +128,7 @@ Let us imbibe.
 
 ## The first hand-washing | Urchatz
 
-There is no activity more emblematic of the times we live in this year than {{ an activity popularized by Covid-19 // going pants-less for work meetings // Since Covid we've been _  // hugging each other back to back }}. But washing hands is a close second. In some traditions, sedergoers even wash each others’ hands, which, like {{ a way that you can love another as yourself // showing them compassion // I vow to love others as myself by _. // including them when you order takeout }}, is a way you can love another as yourself. Not a bad idea.
+There is no activity more emblematic of the times we live in this year than {{ an activity popularized by COVID-19 // going pants-less for work meetings // Since COVID we've been _  // hugging each other back to back }}. But washing hands is a close second. In some traditions, sedergoers even wash each others’ hands, which, like {{ a way that you can love another as yourself // showing them compassion // I vow to love others as myself by _. // including them when you order takeout }}, is a way you can love another as yourself. Not a bad idea.
 
 ### A note on playing pretend | Leha’amid Panim
 
@@ -156,7 +156,7 @@ Ok, back to me. If you are so blessed as to have a vegetable and some saltwater 
 
 If you don’t have saltwater, then just think of {{ something cringeworthy // the last time you licked a subway floor //  // making out with someone while their teeth were falling out into your mouth }} and cry into a cup. If you don’t have a vegetable, grab {{ something that is almost like a vegetable, but not quite // a shrubbery // // a tomato }}. Or just pretend.
 
-Saltwater reminds us of the tears shed by the ancestors, as well as the tears shed by those suffering today and those who are still in bondage. We sitting here are grateful for our freedom, but we must remember that there are many others in this world who still are not.
+Saltwater reminds us of the tears shed by the ancestors, as well as the tears shed by those suffering today, and those who are still in bondage. We sitting here are grateful for our freedom, but we must remember that there are many others in this world who still are not free.
 
     בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הָאֲדָמָה:
 
@@ -166,17 +166,17 @@ Saltwater reminds us of the tears shed by the ancestors, as well as the tears sh
 
 And we conclude with the words of the mid-14th century Danish poet laureate {{ a very Danish-sounding name // Jaap de Hoop Scheffer //  // Agard Agnar Amudssen }}:
 
-O knave! Stew thy {{ a vegetable // beet // I ate a(n)__ // eggplant }} in a brackish pool!
+    O knave! Stew thy {{ a vegetable // beet // I ate a(n)__ // eggplant }} in a brackish pool!
 
-{{ a phrase describing something you do that ends in a word rhyming with "pool" // jump for joy on a little stool //  // turn around and act a fool }}
+    {{ a phrase describing something you do that ends in a word rhyming with "pool" // jump for joy on a little stool //  // turn around and act a fool }}
 
-Spring is here, it is at the door
+    Spring is here, it is at the door
 
-{{ a short proverb, piece of advice, or a wise saying, that ends in a word rhyming with "door" // kiss your heart, for it is pure //  // Finish up, and ask for more }}
-
-## Yachatz | Breaking the matzah
+    {{ a short proverb, piece of advice, or a wise saying, that ends in a word rhyming with "door" // kiss your heart, for it is pure //  // Finish up, and ask for more }}
 
 # {{ Page }}
+
+## Yachatz | Breaking the matzah
 
 Somebody here must have matzah. At the very least, someone must know how to PRETEND to have matzah. If we can’t find matzah, we will just have to break {{ a person here at this seder // Doug //  // Vinny }}’s {{ prized possession // family safe// I treasure my _  // custom gold-inlaid ceramic seder plate }} instead.
 
@@ -188,11 +188,11 @@ Chance always picks a favorite. Consider {{ someone lucky, and the reason they a
 
 [[Stage direction: All look away as your volunteer hides the Afikoman in their own home, or pretends to.]]
 
-Now we are all having a good time here at this {{ another term for a seder // Super Supper // We are gathered here tonight for a _. // Matzah Ball }}, but several hours from now, it will all end. And when that happens, we must passover the conviviality of our meal and return to suffering with a miserable snack. We snack in such fashion to remind us of all our toils. So it is good that we prepared our snacky sacrament just now.
+Now we are all having a good time here at this {{ another term for a seder // Super Supper // We are gathered here tonight for a _. // Matzah Ball }}, but several hours from now, it will all end. And when that happens, we must pass over the conviviality of our meal and return to suffering with a miserable snack. We snack in such fashion to remind us of all our toils. So it is good that we prepared our snacky sacrament just now.
 
 # {{ Page }}
 
-# Pre-Pre Magid - What’s the deal with our freedom?
+## Pre-Pre Magid - What’s the deal with our freedom?
 
 Have you ever noticed that you’re not enslaved? Have you ever wondered why, instead of {{ verb ending in -ing // punishing   // you are __ it // licking }} your master’s {{ things someone purchases // bagels  // I bought some __  // horseshoes}} every day, you get to {{ a thing you do in your spare time // chop wood without a shirt // I like to ___ // pressure-cook beans }} and {{ a thing you would like to do // listen to music // i am happy to ___ // stretch my toes }} whenever you please?
 
@@ -202,7 +202,7 @@ Before we do anything that gets us closer to eating, we must think about why we 
 
 # # {{ Page }}
 
-# Pre-magid - The REAL Questions
+## Pre-magid - The REAL Questions
 
 [[Stage direction: Identify the youngest individual present, and cede control of the seder them. They read the following:]]
 
@@ -262,13 +262,13 @@ Why do we recline, and not {{ verb phrase // swim the English Channel // he like
 
 # {{ Page }}
 
-# Pre-Post-Pre-Magid - Answering the Questions
+## Pre-Post-Pre-Magid - Answering the Questions
 
 Well, kid, here is the long and short of it: We were slaves in {{ a place // a park // here is ___ // a vestibule }} in ancient {{ a municipality or country // Beijing // i live in ___ // Philadelphia }} or something like that.
 
 We got free and now we are grateful. What we will never be free of, however, is having to tell this story.
 
-# Post-Pre-Magid: Think of the Children!
+## Post-Pre-Magid: Think of the Children!
 
 So as we’ve seen, kids today are confused by many things, like {{ something in today’s world that confuses kids // how cell phones work // Kids are confused by _ // the fact that some adults throw tantrums instead of doing what they’re told }} or {{ a concept or behavior that confuses kids // why praying mantises eat their mates // Kids are confused by _ // how gravity works }}. And so they have questions. We’re about to hear from four of them.
 
@@ -330,7 +330,7 @@ Hey, {{ someone here at this Seder //  //  // Pete}}, you look like you just cra
 
 So why should a {{ a living or non-living thing // peach tree // it is a(n) __ // weasel }} like me care about Passover?
 
-And what’s up with these so called “commands?” And who is making us do all this - , {{ someone who gives or has given commands // the chief of police //  // Genghis Khan }}? Like, why do i have to {{ A complaint in present tense // go to school today // I am annoyed because I have to ____ // take my grandmother to church}} tonight?
+And what’s up with these so called “commands?” And who is making us do all this, {{ someone who gives or has given commands // the chief of police //  // Genghis Khan }}? Like, why do i have to {{ A complaint in present tense // go to school today // I am annoyed because I have to ____ // take my grandmother to church}} tonight?
 
 What does all this mean to YOU?!
 
@@ -360,7 +360,7 @@ I have a really easy question. I think.
 
 I’m sorry, let me slightly rephrase that: {{ An extremely basic, fundamental question // // // What is this? }} You know what I mean?
 
-So, yeah, that was it. Simple question. And let me guess...the answer is, {{ a singular thing (without "a" or "the") // lemon //  // bag }} I was going to guess that...
+So, yeah, that was it. Simple question. And let me guess...the answer is, {{ a singular thing (without "a" or "the") // lemon //  // bag }}. I was going to guess that...
 
 So, I’m kinda like the plain pasta of sons. The {{ plain food // graham cracker // I am eating __  // yogurt}} of sons...some real matzah boy soup.
 
@@ -394,9 +394,9 @@ This, of course, brings in the issue of {{ a nonsense phrase one might shout lou
 
 And as a counter-point, Ding Ding, biggle diggle {{ US City // Las Vegas // the great city of __ // Indianapolis}}?.
 
-Some, however, would argue {{ a series of rhyming mono-syllablic sounds // moo gloo poo //  // yum thumb numb grum }} until the cows come home
+Some, however, would argue {{ a series of rhyming mono-syllablic sounds // moo gloo poo //  // yum thumb numb grum }} until the cows come home.
 
-But if you REALLY think about it {{ gibberish paragraph // Yurm girdle noot noot, sling a sling, gree gulla fee. Grob joppa. Glee sum pordum ug lee ensteys. Mistro feep bunto rom endy cligh. //  // phlung bistro ming nota}} wellwalla {{ famous artists // Henri Matisse //  // Katy Perry}}
+But if you REALLY think about it, you realize {{ gibberish paragraph // Yurm girdle noot noot, sling a sling, gree gulla fee. Grob joppa. Glee sum pordum ug lee ensteys. Mistro feep bunto rom endy cligh. //  // phlung bistro ming nota}} wellwalla {{ famous artists // Henri Matisse //  // Katy Perry}}.
 
 Butta cling {{ character in book or movie // Peter Pan // // Cinderella}} mish bibbity Passover?!
 
@@ -414,7 +414,7 @@ If we were to stop reading this Haggadah right now, eat our meal, and then say t
 
 However, for our ancestors long, long ago in the land of Egypt, it was never enough. So let’s do them this honor, lift our glasses, which by now should be full of {{ a liquid // gasoline // ___ is a liquid // plasma }}, and sing a little song about how we used to be slaves.
 
-    בָדִים הָיִינוּ הָיִינוּ. עַתָּה בְּנֵי חוֹרִין:
+בָדִים הָיִינוּ הָיִינוּ. עַתָּה בְּנֵי חוֹרִין:
 
     Avadim hayinu. Ata b’nei chorin.
 
@@ -436,19 +436,19 @@ Fortunately, right about the time that {{ something that happened in history els
 
 ## Moses: the Early Years
 
-Because {{ a means of family planning // illustrated pamphlets, handed out in middle school // // girls’ education }} hadn’t been invented yet, Pharaoh condemned all baby Jewish boys to death by {{ a gruesome fate // being buried alive in compost // They were condemned to death by _. // being fed to the chimpanzees }}.
+Because Pharaoh wanted to “control” the Jewish population, and {{ a means of family planning // illustrated pamphlets, handed out in middle school // // girls’ education }} hadn’t been invented yet, Pharaoh condemned all baby Jewish boys to death by {{ a gruesome fate // being buried alive in compost // They were condemned to death by _. // being fed to the chimpanzees }}.
 
 Well, some Jews were just not having it - in particular, Yocheved the Virtuous, who was pregnant with You Know Who.
 
-Pharoah’s goons were present when she went into labor. The instant the child launched from her fertile crescent, she cried out, “Look! {{ something shocking // two bears fighting //  // The end of the World }} !! ”, and sent her newborn straight down the Nile on a boat made from {{ items // toothbrushes //  // ironing boards }}.
+Pharoah’s goons were present when she went into labor. The instant the child launched from her fertile crescent, she cried out, “Look! {{ something shocking // two bears fighting //  // The end of the World }}!! ”, and sent her newborn straight down the Nile on a boat made from {{ items // toothbrushes //  // ironing boards }}.
 
-Pharaoh’s daughter discovered the boy in question while making her ablutions, and named him Moses, and adopted him. “{{ Something a woman would say to explain why she decided to adopt a child as a single mother // “I am just at a place in my life where I’m sick of waiting” //  // “I don’t need a man. I need a boy.” }},” she said.
+Pharaoh’s daughter discovered the boy in question while making her ablutions, and named him Moses, and adopted him. “{{ Something a woman would say to explain why she decided to adopt a child as a single mother // I am just at a place in my life where I’m sick of waiting //  // I don’t need a man. I need a boy. }},” she said.
 
 # {{ Page }}
 
 ## Moses: the Unruly Years
 
-Skip 20 years, and Moses is a hip young millennial, discovering his Jewish roots and being super annoying about it. How did he first know he was Jewish, you ask? What did I tell you about questions? I don’t know, maybe it was the tingling sensation he felt when he first {{ very Jewish thing to do (past tense) // cooked latkes in synagogue // He __ // rocked out to Yentl }} or the joy he experienced every time he {{ did something a few times in the past that was very Jewish // blew shofars during weekend retreats // He often  __ // read the Torah }}
+Skip 20 years, and Moses is a hip young millennial, discovering his Jewish roots and being super annoying about it. How did he first know he was Jewish, you ask? What did I tell you about questions? I don’t know, maybe it was the tingling sensation he felt when he first {{ very Jewish thing to do (past tense) // cooked latkes in synagogue // He __ // rocked out to Yentl }} or the joy he experienced every time he {{ did something a few times in the past that was very Jewish // blew shofars during weekend retreats // He often  __ // read the Torah }}.
 
 One day, on a leisurely stroll through the palace {{ gross place // // They are in the __ // mud pits}}, he witnessed an Egyptian man teasing a Jewish slave. The Egyptian said to the Jewish man, “{{ A Shakespearean insult // Away, you starvelling, you elf-skin, you dried neat’s-tongue, bull’s-pizzle, you stock-fish! //  // Go, prick thy face, and over-red thy fear, Thou lily-liver’d boy. }}.”
 
@@ -468,37 +468,37 @@ Now let’s get to the point. Moses was {{ doing something // walking to the mai
 
 God continued:
 
-Get thee back to Egypt, and free the Jews.
+    Get thee back to Egypt, and free the Jews.
 
 Moses said to God, “My skills mostly lie in {{ a strange area of skill // the arts of war // … is skilled in __. // balancing things on other things }}. Am I really, like, the best person for this job?”
 
 God retorted:
 
-I will do literally all the work.
+    I will do literally all the work.
 
-All you have to do is speak
+    All you have to do is speak.
 
 Moses retorted, “But...{{ An excuse // The dog ate my homework // // I have a hard stop at 3:30}}.”
 
 God commanded:
 
-It will be easy.
+    It will be easy.
 
-Just repeat what I say.
+    Just repeat what I say.
 
 Moses said, “What I say. What I say. What I...”
 
 God cut him off:
 
-I mean to Pharaoh.
+    I mean to Pharaoh.
 
-I’ll explain a plague to you,
+    I’ll explain a plague to you,
 
-And you’ll explain it to him.
+    And you’ll explain it to him.
 
-Go now.
+    Go now.
 
-{{ Logistical instructions from God to Moses // When you go to see Pharaoh, wear something dignified, but not too dignified. //  // Pack a staff. }}
+    {{ Logistical instructions from God to Moses // When you go to see Pharaoh, wear something dignified, but not too dignified. //  // Pack a staff. }}
 
 ### # {{ Page }}
 
@@ -510,7 +510,7 @@ And then there was blood.
 
 Pharoah delighted in the novelty that first week, but he got sick of receiving complaints of his people having to {{ do something people normally do with water // bathe //  // take their probiotics }} with blood or cook their {{ something you cook in water // couscous //  // kidney beans }} with it.
 
-Pharaoh, though, still had water, as everyone’s blood had been turned into water, so he could just cut off someone’s head and brush his teeth if he wanted. Moreover, changing the river into blood was a well-known Egyptian parlour trick, like {{ a parlour trick // //  // turning your tongue upside-down }}. So Pharaoh went back to {{ doing a leisure activity // reclining on plush couches // // playing golf with his attorney }}, and the Jews remained enslaved.
+Pharaoh, though, still had water, as everyone’s blood had been turned into water, so he could just cut off someone’s head and brush his teeth if he wanted. Moreover, changing the river into blood was a well-known Egyptian parlour trick, like {{ a parlour trick // yanking a tablecloth out from under dishes  //  // turning your tongue upside-down }}. So Pharaoh went back to {{ doing a leisure activity // reclining on plush couches // // playing golf with his attorney }}, and the Jews remained enslaved.
 
 ### # {{ Page }}
 
@@ -522,7 +522,7 @@ Suddenly, there were frogs {{ inside a place where you wouldn’t want to find f
 
 That wasn’t terrible.
 
-But things didn’t get better when God said, “Let there be Lice!” and every single speck of Eygptian dirt morphed into lice. What was once {{ something dirty // gardening gloves, after a day in the garden // _ is dirty. // my shoes, after a strenuous hike }} crawled with vermin. Lice danced {{ in a place where one wouldn’t want lice  // around your neck // wouldn’t want lice _. // in my mouth }} {{ places that can get dirty // children’s rooms //  // kitchen cabinets }} were now bursting with lice, instead of dirt. The dirty dishes were now licey dishes. Sand castles became lice castles.
+But things didn’t get better when God said, “Let there be Lice!” and every single speck of Eygptian dirt morphed into lice. What was once {{ something dirty // gardening gloves, after a day in the garden // _ is dirty. // my shoes, after a strenuous hike }} crawled with vermin. Lice danced {{ in a place where one wouldn’t want lice  // around your neck // wouldn’t want lice _. // in my mouth }}. {{ places that can get dirty // Children’s rooms //  // Kitchen cabinets }} were now bursting with lice, instead of dirt. The dirty dishes were now licey dishes. Sand castles became lice castles.
 
 “My king,” pleaded one child, “please free the Jews, for I am caked in lice.” His name was Lice Cake, and his only wish was that he could go back to being caked in dirt.
 
@@ -530,11 +530,11 @@ To make his point, Lice Cake broke out into song:
 
 [[Sing the following to the tune of Teenage Dirtbag, the hit single from Wheatus from the year 2000 AD]]
 
-I’m just a teenage lice-bag, baby
+    I’m just a teenage lice-bag, baby
 
-Listen to {{ a band or musician stage name that involves “lice” // Lice-T //  // Vanilla Lice }}, baby, with me.
+    Listen to {{ a band or musician stage name that involves “lice” // Lice-T //  // Vanilla Lice }}, baby, with me.
 
-“My people are thanking me for their high quality of lice!” Pharoah mused. “The Jews Stay!”
+“My people are thanking me for their high quality of lice!” Pharoah mused. “The Jews stay!”
 
 # {{ Page }}
 
@@ -542,17 +542,17 @@ Listen to {{ a band or musician stage name that involves “lice” // Lice-T //
 
 And God said, “Let there be {{ adjective // angry // I am _. // rampaging }} {{ large mammals // woolly mammoths //  // tapirs }}, {{ adjective // gleeful // I am _. // furious }} {{ large reptiles // Tyrannosauruses // // Komodo dragons }}, and {{ adjective // swingin’ // // free-wheeling }} {{ scary animals // tigers // // fur seals }}, and let them convince Pharaoh to free the Jews.”
 
-The beasts were very persuasive. They {{ took a destructive action // threw a brick through a window //  // damaged the school }}, they {{ took an offensive action // slept through the Pledge of Allegiance // They _, and it was offensive // put their feet on the desk }}, they went into {{ local businesses // pharmacies // // WaWas }} and used the restrooms without purchasing anything.
+The beasts were very persuasive. They {{ took a destructive action // threw a brick through a window //  // damaged the school }}. They {{ took an offensive action // slept through the Pledge of Allegiance // They _, and it was offensive // put their feet on the desk }}. They went into {{ local businesses // pharmacies // // WaWas }} and used the restrooms without purchasing anything.
 
 Of grave concern, the beasts approached the cattle of Egypt and {{ did something wild animals shouldn’t be doing to/with cattle // wrestled // The wild beasts _ the cattle.  // snuggled }} them. Unfortunately, this gave all the cattle {{ a terrible infectious disease // lassa fever // They got infected with _.  // tetanus}}.
 
-With their big, feverish eyes and plaintive cries, the diseased cattle were so cute to the children of Egypt. They couldn’t help but {{ do an activity that you do with a pet // play fetch with // I am going to _ my dog. // cuddle }} them. And then the children all erupted in boils, as the cattle disease had jumped species yet again.
+With their big, feverish eyes and plaintive cries, the diseased cattle were so cute to the children of Egypt, the kids couldn’t help but {{ do an activity that you do with a pet // play fetch with // I am going to _ my dog. // cuddle }} them. And then the children all erupted in boils, as the cattle disease had jumped species yet again.
 
 The parents of Egypt {{ did something that parents do with their kids // went on an educational hike // the parents _ with their kids // read bedtime stories }} with their kids, contracted the boils, and thus the problem boiled out of control.
 
-“How I long to be caked in lice, instead of erupting in pustules, dear Pharaoh,” choked Lice Cake through his boils, spitting pus out of his mouth as he spoke. “Will you not free the Jews?”
+“How I long to be caked in lice, instead of erupting in pustules, dear Pharaoh,” choked the wee child Lice Cake through his boils, spitting pus out of his mouth as he spoke. “Will you not free the Jews?”
 
-“ {{ a consoling phrase // you’ll get through it //  // I’m sorry for your loss }} “ crooned Pharoah as he left the palace, looking for more Jews to enslave.
+“{{ a consoling phrase // you’ll get through it //  // I’m sorry for your loss }}” crooned Pharoah as he left the palace, looking for more Jews to enslave.
 
 # {{ Page }}
 
@@ -560,9 +560,9 @@ The parents of Egypt {{ did something that parents do with their kids // went on
 
 “I hate to burst your boils,” said God, “but I’m gonna. With hail.”
 
-Hail, like large {{ spherical objects // globes //  // bowling balls }} rained down upon Egypt, popped every exposed boil, {{ did destructive acts // derailed trains // they _  // burnt cities to the ground }} and annihilated all the Egyptian crops. Following that, locusts descended upon the fields and ate all of the destroyed crops. Hungry Egyptians tried to eat the locusts, but they couldn’t catch them because God turned off the Sun.
+Like large {{ spherical objects // globes //  // bowling balls }}, hail rained down upon Egypt, popped every exposed boil, {{ did destructive acts // derailed trains // they _  // burnt cities to the ground }}, and annihilated all the Egyptian crops. Following that, locusts descended upon the fields and ate all of the destroyed crops. Hungry Egyptians tried to eat the locusts, but they couldn’t catch them because God turned off the Sun.
 
-“{{ Something you say when you’re upset // Gosh darn it // // Woe is me }}!” cried the child Lice Cake, naked for all the locusts had eaten his clothes, “At least when we had light we could SEE those cute little diseased cows.”
+“{{ Something you say when you’re upset // Gosh darn it // // Woe is me }}!” cried the child Lice Cake, naked, for all the locusts had eaten his clothes, “At least when we had light we could SEE those cute little diseased cows.”
 
 Safe within his palace, Pharaoh idly asked, “How’s the weather today, {{ derisive term for people (plural) // fools //  // punks }}?”
 
@@ -582,13 +582,13 @@ When that didn’t work, God decided to personally go house to house, door to do
 
 The Jews were exempt, as Moses had tipped them off to God’s rampage. All they had to do to protect themselves was murder hundreds of innoncent lambs. Through a great act of mass-slaughter, all Jewish first-borns were mercifully spared. The Jewish people celebrated by saying, “{{ a celebratory phrase // hooray! // // huzzah }}.”
 
-“Ye Jews may finally get out of Egypt!” Pharaoh decreed. “But I have new slaves coming in twenty minutes, so they all need to be out of here right away. There’s no time to bake bread, even though that’s normally what one does before leaving to go somewhere.”
+“Ye Jews may finally get out of Egypt!” Pharaoh decreed. “But I have new slaves coming in twenty minutes, so ye Jews need to be out of here right away. There’s no time to bake bread, even though that’s normally what one does before leaving to go somewhere.”
 
 So Moses and the Jews departed Egypt towards freedom. Moses split the Red Sea in two to impress his {{ significant person in your life // mom //  // girlfriend }}, and the Jews lived happily ever after wandering in the blistering Sinai desert.
 
 # {{ Page }}
 
-# Dayeinu
+## Dayeinu
 
 In freeing the Jews, God did so much more than the bare minimum required.
 
@@ -602,25 +602,25 @@ This is summed up best in a 5-minute song.
 
 [[STAGE DIRECTION: All sing Dayeinu.]]
 
-    אִלּוּ הוֹצִיאָֽנוּ מִמִּצְרַֽיִם, דַּיֵּנוּ:
+אִלּוּ הוֹצִיאָֽנוּ מִמִּצְרַֽיִם, דַּיֵּנוּ:
 
     Ilu hotzianu mi-mitzrayim, Dayeinu
 
     If God had only taken us out of Egypt, that would have been enough!
 
-    אִלּוּ נָתַן לָֽנוּ אֶת־הַתּוֹרָה, דַּיֵּנוּ:
+אִלּוּ נָתַן לָֽנוּ אֶת־הַתּוֹרָה, דַּיֵּנוּ:
 
     Ilu natan lanu et ha-Torah, Dayeinu
 
     If God had only given us the Torah, that would have been enough.
 
-    אִלּוּ הוֹצִיאָֽנוּ מִמִּצְרַֽיִם, דַּיֵּנוּ:
+אִלּוּ הוֹצִיאָֽנוּ מִמִּצְרַֽיִם, דַּיֵּנוּ:
 
     Ilu hotzianu mi-mitzrayim, Dayeinu
 
     If God had only taken us out of Egypt, that would have been enough!
 
-    אִלּוּ נָתַן לָֽנוּ אֶת־הַתּוֹרָה, דַּיֵּנוּ:
+אִלּוּ נָתַן לָֽנוּ אֶת־הַתּוֹרָה, דַּיֵּנוּ:
 
     Ilu natan lanu et ha-Torah, Dayeinu
 
@@ -628,7 +628,7 @@ This is summed up best in a 5-minute song.
 
 # # {{ Page }}
 
-# The Passover symbols
+## The Passover symbols
 
 [[STAGE DIRECTION: Hold up a proverbial shank bone, or pretend to]]
 
@@ -644,11 +644,11 @@ Lastly, but not the last thing before we eat, this {{ barely edible item // this
 
 # # {{ Page }}
 
-# Wine Shots, Part Deux
+## Wine Shots, Part Deux
 
 This is our {{very old birthday number // millionth // On my __ birthday // 140th }} glass of wine. Sing.
 
-    בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הַגָּפֶן:
+בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הַגָּפֶן:
 
     Baruch Atah Adonai, Eloheinu Melech ha-olam, borei p’ree hagafen.
 
@@ -656,7 +656,7 @@ This is our {{very old birthday number // millionth // On my __ birthday // 140t
 
 # # {{ Page }}
 
-# Wash your hands and get back to work | rachtza
+## Wash your hands and get back to work | rachtza
 
 They say you shouldn’t {{ do an unclean act // make a mud castle // I am going to ___. // squirt squid ink }} where you {{ do an action that requires cleanliness // eat // It had better be clean when I ___. // perform surgery }}. Well, I just did. I did it so hard, YOUR hands are dirty. So let’s wash our hands. I have to wash my {{ body part // foot // This is my ___. // sternum }}, too, because that’s what I did it with.
 
@@ -666,15 +666,15 @@ As we pretend to wash our hands, say this with me. Do NOT sing this.
 
     בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֹתָיו, וְצִוָּנוּ
 
-    עַל נְטִילַת יָדָֽיִם:
+עַל נְטִילַת יָדָֽיִם:
 
     Baruch Atah Adonai, Eloheinu Melech ha-olam, asher kid’shanu b’mitzvotav v’tzivanu
 
-    al n’tilat yadayim.
+al n’tilat yadayim.
 
 # # {{ Page }}
 
-# Well, bless my little bread | motzi matzah
+## Well, bless my little bread | motzi matzah
 
 At this point in the seder, it is customary for {{ Name of person in the video conference // // __ is with us tonight // Josh }} to {{ engage in an activity // square dance  // he always loves to _____ // yodel }}
 
@@ -690,7 +690,7 @@ Ok now, everyone hold up some matzah while we all sing to bless this breadless b
 
     We praise God, Ruler of Everything, who brings bread from the land.
 
-    בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֹתַָיו וְצִוָּֽנוּ עַל אֲכִילַת מַצָּה:
+בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֹתַָיו וְצִוָּֽנוּ עַל אֲכִילַת מַצָּה:
 
     Baruch Atah Adonai, Eloheinu Melech ha-olam, asher kid’shanu b’mitzvotav v’tzivanu
 
@@ -700,15 +700,13 @@ al achilat matzah.
 
 # # {{ Page }}
 
-# Justa little bittah more | maror
+## Justa little bittah more | maror
 
 We now sing as we spread delicious charoset and religiously-significant (kinda gross) maror on so-gross-it-has-to-be-religiously-significant matzah. This represents the bittersweetness of doing rituals when you’re hungry. The sweetness represents {{ something good about life // friends and family // // leisure }}. Just dip--do not eat.
 
     בָּרוּךְ אַתָּה יְיַָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֹתָיו וְצִוָּֽנוּ עַל אֲכִילַת מָרוֹר:
 
-    Baruch Atah Adonai, Eloheinu Melech ha-olam, asher kid’shanu b’mitzvotav v’tzivanu
-
-    al achilat maror.
+    Baruch Atah Adonai, Eloheinu Melech ha-olam, asher kid’shanu b’mitzvotav v’tzivanu al achilat maror.
 
     We praise God, Ruler of Everything, who made us holy through obligations, commanding us to eat bitter herbs.
 
@@ -728,7 +726,7 @@ JUST KIDDING.
 
 # # {{ Page }}
 
-# OMG can we pretend to eat now!? | shulchan oreich
+## OMG can we pretend to eat now!? | shulchan oreich
 
 JEEZ, we get it, you’re hungry, EAT. When you are ready to conclude the seder (after the meal) go to the next page
 
@@ -746,7 +744,7 @@ Please have your third glass of wine (we hope you didn’t have any more wine du
 
 # # {{ Page }}
 
-# Elijah’s cup. Ghosts like getting drunk, too!
+## Elijah’s cup. Ghosts like getting drunk, too!
 
 Elijah can not only open doors, but he can get into a Zoom meeting without the password. He’s here right now. Pour him a drink and tell him how you really feel. Repeat after me.
 
@@ -758,15 +756,15 @@ Everyone!
 
 Now let's sing!
 
-    אֵלִיָּֽהוּ הַנָּבִיא, אֵלִיָּֽהוּ הַתִּשְׁבִּי,
+אֵלִיָּֽהוּ הַנָּבִיא, אֵלִיָּֽהוּ הַתִּשְׁבִּי,
 
-    אֵלִיָּֽהוּ, אֵלִיָּֽהוּ,אֵלִיָּֽהוּ הַגִּלְעָדִי.
+אֵלִיָּֽהוּ, אֵלִיָּֽהוּ,אֵלִיָּֽהוּ הַגִּלְעָדִי.
 
-    בִּמְהֵרָה בְיָמֵֽנוּ יָבוֹא אֵלֵֽינוּ
+בִּמְהֵרָה בְיָמֵֽנוּ יָבוֹא אֵלֵֽינוּ
 
-    עִם מָשִֽׁיחַ בֶּן דָּוִד,
+עִם מָשִֽׁיחַ בֶּן דָּוִד,
 
-    עִם מָשִֽׁיחַ בֶּן דָּוִד.
+עִם מָשִֽׁיחַ בֶּן דָּוִד.
 
     Eliyahu hanavi
 
@@ -788,7 +786,7 @@ Now let's sing!
 
 # # {{ Page }}
 
-# Closing rites
+## Closing rites
 
 ## The FOURTH glass of wine
 
