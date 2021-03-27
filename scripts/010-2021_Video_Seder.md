@@ -514,17 +514,17 @@ Pharaoh, though, still had water, as everyone’s blood had been turned into wat
 
 ### # {{ Page }}
 
-### Plague Combo One: Brogs (tzfardeiya) and Lice (kinim)
+### Plague Combo One: Frogs (tzfardeiya) and Lice (kinim)
 
-### With renewed determination, so spake Moses “{{ An ominous statement // Prepare for the worst //  // To thee, this day, I send a thousand travails }}”.
+With renewed determination, so spake Moses “{{ An ominous statement // Prepare for the worst //  // To thee, this day, I send a thousand travails }}”.
 
-### Suddenly, there were frogs {{ inside a place where you wouldn’t want to find frogs // in your underwear // I’m upset because there are frogs  _. // in the dishwasher }} and {{a place upon which you would be upset to find frogs // on every credenza // I can’t believe there are frogs _. // on the dining room table }} and {{ a place behind or underneath which you would be upset to find frogs // under mother’s robes // I am shocked there are frogs _. // behind the fertility statues}}.
+Suddenly, there were frogs {{ inside a place where you wouldn’t want to find frogs // in your underwear // I’m upset because there are frogs  _. // in the dishwasher }} and {{a place upon which you would be upset to find frogs // on every credenza // I can’t believe there are frogs _. // on the dining room table }} and {{ a place behind or underneath which you would be upset to find frogs // under mother’s robes // I am shocked there are frogs _. // behind the fertility statues}}.
 
-### That wasn’t terrible.
+That wasn’t terrible.
 
-### But things didn’t get better when God said, “Let there be Lice!” and every single speck of Eygptian dirt morphed into lice. What was once {{ something dirty // gardening gloves, after a day in the garden // _ is dirty. // my shoes, after a strenuous hike }} crawled with vermin. Lice danced {{ in a place where one wouldn’t want lice  // around your neck // wouldn’t want lice _. // in my mouth }} {{ places that can get dirty // children’s rooms //  // kitchen cabinets }} were now bursting with lice, instead of dirt. The dirty dishes were now licey dishes. Sand castles became lice castles.
+But things didn’t get better when God said, “Let there be Lice!” and every single speck of Eygptian dirt morphed into lice. What was once {{ something dirty // gardening gloves, after a day in the garden // _ is dirty. // my shoes, after a strenuous hike }} crawled with vermin. Lice danced {{ in a place where one wouldn’t want lice  // around your neck // wouldn’t want lice _. // in my mouth }} {{ places that can get dirty // children’s rooms //  // kitchen cabinets }} were now bursting with lice, instead of dirt. The dirty dishes were now licey dishes. Sand castles became lice castles.
 
-### “My king,” pleaded one child, “please free the Jews, for I am caked in lice.” His name was Lice Cake, and his only wish was that he could go back to being caked in dirt.
+“My king,” pleaded one child, “please free the Jews, for I am caked in lice.” His name was Lice Cake, and his only wish was that he could go back to being caked in dirt.
 
 To make his point, Lice Cake broke out into song:
 
@@ -536,15 +536,15 @@ Listen to {{ a band or musician stage name that involves “lice” // Lice-T //
 
 “My people are thanking me for their high quality of lice!” Pharoah mused. “The Jews Stay!”
 
-### ### # {{ Page }}
+# {{ Page }}
 
 ### Plague Combo Two: Wild Animals (arov), Cattle Disease (dever), and Boils (scheen)
 
-### And God said, “Let there be {{ adjective // angry // I am _. // rampaging }} {{ large mammals // woolly mammoths //  // tapirs }}, {{ adjective // gleeful // I am _. // furious }} {{ large reptiles // Tyrannosauruses // // Komodo dragons }}, and {{ adjective // swingin’ // // free-wheeling }} {{ scary animals // tigers // // fur seals }}, and let them convince Pharaoh to free the Jews.”
+And God said, “Let there be {{ adjective // angry // I am _. // rampaging }} {{ large mammals // woolly mammoths //  // tapirs }}, {{ adjective // gleeful // I am _. // furious }} {{ large reptiles // Tyrannosauruses // // Komodo dragons }}, and {{ adjective // swingin’ // // free-wheeling }} {{ scary animals // tigers // // fur seals }}, and let them convince Pharaoh to free the Jews.”
 
 The beasts were very persuasive. They {{ took a destructive action // threw a brick through a window //  // damaged the school }}, they {{ took an offensive action // slept through the Pledge of Allegiance // They _, and it was offensive // put their feet on the desk }}, they went into {{ local businesses // pharmacies // // WaWas }} and used the restrooms without purchasing anything.
 
-### Of grave concern, the beasts approached the cattle of Egypt and {{ did something wild animals shouldn’t be doing to/with cattle // wrestled // The wild beasts _ the cattle.  // snuggled }} them. Unfortunately, this gave all the cattle {{ a terrible infectious disease // lassa fever // They got infected with _.  // tetanus}}.
+Of grave concern, the beasts approached the cattle of Egypt and {{ did something wild animals shouldn’t be doing to/with cattle // wrestled // The wild beasts _ the cattle.  // snuggled }} them. Unfortunately, this gave all the cattle {{ a terrible infectious disease // lassa fever // They got infected with _.  // tetanus}}.
 
 With their big, feverish eyes and plaintive cries, the diseased cattle were so cute to the children of Egypt. They couldn’t help but {{ do an activity that you do with a pet // play fetch with // I am going to _ my dog. // cuddle }} them. And then the children all erupted in boils, as the cattle disease had jumped species yet again.
 
