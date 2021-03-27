@@ -129,9 +129,35 @@
       "script_number": {
         "N": "9"
       }
+    },
+    {
+      "haggadah_description": {
+        "S": "The latest script, from 2021."
+      },
+      "lib_id": {
+        "S": "script#010"
+      },
+      "haggadah_short_desc": {
+        "S": "2021 Video Script"
+      },
+      "room_code": {
+        "S": "script#AAAAAJ"
+      },
+      "path": {
+        "S": "010-2021_Video_Seder"
+      },
+      "is_script": {
+        "N": "1"
+      },
+      "haggadah_name": {
+        "S": "0010 - 2021 Video Script"
+      },
+      "script_number": {
+        "N": "5"
+      }
     }
   ],
-  "Count": 5,
-  "ScannedCount": 5,
+  "Count": 6,
+  "ScannedCount": 6,
   "ConsumedCapacity": null
 }
