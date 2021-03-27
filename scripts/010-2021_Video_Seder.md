@@ -558,87 +558,33 @@ The parents of Egypt {{ did something that parents do with their kids // went on
 
 ### Plague Combo Three: Hail (barad), Locusts (arbeh), and Darkness (choshech)
 
-“I hate to burst your boils,”
+“I hate to burst your boils,” said God, “but I’m gonna. With hail.”
 
-Safe within his palace, Pharaoh idly asked, “
+Hail, like large {{ spherical objects // globes //  // bowling balls }} rained down upon Egypt, popped every exposed boil, {{ did destructive acts // derailed trains // they _  // burnt cities to the ground }} and annihilated all the Egyptian crops. Following that, locusts descended upon the fields and ate all of the destroyed crops. Hungry Egyptians tried to eat the locusts, but they couldn’t catch them because God turned off the Sun.
 
-All hail, Pharaoh
+“{{ Something you say when you’re upset // Gosh darn it // // Woe is me }}!” cried the child Lice Cake, naked for all the locusts had eaten his clothes, “At least when we had light we could SEE those cute little diseased cows.”
 
-All hail me, indeed.
+Safe within his palace, Pharaoh idly asked, “How’s the weather today, {{ derisive term for people (plural) // fools //  // punks }}?”
 
-### # {{ Page }}
+“All hail, Pharaoh,” the Egyptians replied.
 
-### Hail | barad
-
-Pharaoh was brave, and was prepared to let the people of Egypt suffer even more.
-
-And so God rained giant {{ large object // elephant // // rocket }}-sized hail balls down from the sky. This somehow only affected the Egyptians, due to God’s excellent aim and because the Jews had giant {{ large object // elephant // // rocket}}-sized, {{ large object // elephant // // rocket}}-shaped umbrellas.
-
-### # {{ Page }}
-
-### Locusts | arbeh
-
-“I can deal with blood, lice, hail, cattle disease, {{ pandemic // coronavirus //  // coronavirus }}, lice, boils and wild animals” said Pharoah, “It still doesn’t compete with having Jews as slaves. Jewish slaves are like negative fifteen plagues.”
-
-“Seriously?” said Moses. “Well, then how about locusts?”
-
-“They’re fine, too,” said Pharaoh.
-
-“Dam,” said Moses.
-
-“That was blood!” said Pharoah.
-
-“Good hebrew!” said God, adding under His breath, “for a Pharaoh...”
-
-### Darkness | choshech
-
-It’s too dark. I can’t read this plague.
+“All hail me, indeed,” said Pharaoh, and went back to {{ doing a leisure activity for noblemen // pheasant hunting // Members of the nobility spent their time _. // donating money to elite universities }}, pointedly without freeing the Jews.
 
 ### # {{ Page }}
 
 ### Slaying of the First Born | makat Bechorot
 
-And so God decided to do something pretty drastic and off-brand.
+Losing patience with Moses, God decided to personally go house to house, door to door, trying to hire another prophet.
 
-“Don’t worry, Moses, they wanna {{ verb //  // They will ___ with us. // dance }} with the G-O-D? They’re gonna get served. I’ve written this rap to emphasize the next step.”
+When that didn’t work, God decided to personally go house to house, door to door, selling {{ something you sell door to door // Cutco knives  //  // doors }}.
 
-    So you think this GOD doesn’t have what it takes
+When that didn’t work, God decided to personally go house to house, door to door, and kill the first-born in each family with {{ a weapon // nunchucks  // I have __ // an axe }}. He started with the Egyptian child Lice Cake, who was sitting in darkness gnawing a frog skeleton, scratching his lice bites. “I’ve had a good life,” he said.
 
-    To convince you to let go of your chicka-chicka slaves.
+The Jews were exempt, as Moses had tipped them off to God’s rampage. All they had to do to protect themselves was murder hundreds of innoncent lambs. Through a great act of mass-slaughter, all Jewish first-borns were mercifully spared. The Jewish people celebrated by saying, “{{ a celebratory phrase // hooray! // // huzzah }}.”
 
-    Well take notes, Pharoah, you’re about to learn,
+“Ye Jews may finally get out of Egypt!” Pharaoh decreed. “But I have new slaves coming in twenty minutes, so they all need to be out of here right away. There’s no time to bake bread, even though that’s normally what one does before leaving to go somewhere.”
 
-    When I go and kill all of your {{ Person, place, or thing that rhymes with “first born” //  // // worst porn}}.
-
-Pharaoh said, “Did you mean, ‘first born’?”
-
-“Yes,” said God.
-
-Pharaoh shrugged and said, “Bring it, I was cloned.”
-
-So the Jews huddled in their homes, only allowed to talk via Zoom, watch Netflix, and {{ do something you do when you're quarantined // bake bread // During this quarantine, I am going to ___. // get into figure drawing }}. God killed everyone who stood less than 6 feet apart from anyone else. Pharaoh's eldest son, who had been misled by Fox news into taking {{ a bogus remedy // snake oil //  // hydroxychloroquine }} and using tactical butt wipes, died long before any of this even happened.
-
-“Stop this nonsense! The {{ members of an ethnic group, other than Jews // Italians //  // Irish}} can go free!” said Pharaoh.
-
-Moses: “You mean the Jews?”
-
-Pharaoh: “Ohhh, you were asking about ‘the Jews?’ This whole time? Sure, they can go free. I forgot I even had them. I thought you were asking me to free my personal {{ lowly service provider // ditch digger //  // nail trimmer }}, Thachooze. Thachooze, get back to work! I hereby double your burdens.”
-
-# {{ Page }}
-
-### Freedom!!!
-
-So the Jews were freed. They told God they were going into the wilderness to worship Him, then headed to the {{ body of water // Atlantic ocean // we’re going to __  //  Bahamas }} to party and hook up.
-
-Later on, Pharoah got to thinking, “If i don’t have slaves, i’m gonna have to mummify...MYSELF. I don’t even have a son anymore to do it for me.”
-
-So Pharoah changes his mind, jumps into his {{ vehicle // car //  // rocket }} and chases after the Jews. Moses, who kinda saw this coming, gets out his big {{ phallic object // carrot //  // eggplant }} waves it in the air, and the sea totally splits in two. They cross the ocean and when the Egyptians get to the center of the ocean, God says, “{{ a mean exclamation // Screw you! //  // Shame! }}” and murders them.
-
-The Jews celebrate, God gets mad, and makes them wander for 40 years, but then everything’s fine.
-
-{{ An adventure that the Jews went on after they were freed from Egypt, but didn’t make it into the Torah }}
-
-And they lived happily ever after.
+So Moses and the Jews departed Egypt towards freedom. Moses split the Red Sea in two to impress his {{ significant person in your life // mom //  // girlfriend }}, and the Jews lived happily ever after wandering in the blistering Sinai desert.
 
 # {{ Page }}
 
@@ -686,21 +632,21 @@ This is summed up best in a 5-minute song.
 
 [[STAGE DIRECTION: Hold up a proverbial shank bone, or pretend to]]
 
-This, my Jews, is a {{handheld item // coffee cup // I am holding a ___// digital watch}}. It represents a dead lamb. I bring it everywhere with me.
+This, my Jews, is a {{ handheld item // coffee cup // I am holding a ___// digital watch }}. It represents a dead lamb. I bring it everywhere with me.
 
 [[STAGE DIRECTION: Hold up some proverbial matzah, or pretend to]]
 
-This is a {{flat thing// plate // The earth is as flat as a___// rug }}. It’s probably the most famous passover symbol. Even my goy friend, {{a flamboyant name // Tessa the best dressa // // Rupaul}} knows what this is! It represents settling for the next best thing.
+This is a {{ flat thing// plate // The earth is as flat as a___// rug }}. It’s probably the most famous passover symbol. It represents settling for the next best thing.
 
 [[STAGE DIRECTION: Hold up some proverbial maror (horseradish), or pretend to]]
 
-Lastly, but not the last thing before we eat, this {{a barely edible item// this __ // // tuna fish}}, is a bitter herb. It symbolizes the bitterness of slavery and of having to wait 25 hours to eat dinner.
+Lastly, but not the last thing before we eat, this {{ barely edible item // this __ // // tuna fish }}, is a bitter herb. It symbolizes the bitterness of slavery and of having to wait 25 hours to eat dinner.
 
 # # {{ Page }}
 
 # Wine Shots, Part Deux
 
-This is our {{very old birthday number // // On my __ birthday // 140th }} glass of wine. Sing.
+This is our {{very old birthday number // millionth // On my __ birthday // 140th }} glass of wine. Sing.
 
 בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הַגָּפֶן:
 
@@ -730,13 +676,13 @@ al n’tilat yadayim.
 
 # Well, bless my little bread | motzi matzah
 
-At this point in the seder, it is customary for {{ Name of person in the video conference // // __ is with us tonight// Josh }} to {{ engage in an activity // square dance  // he always loves to _____ // yodel }}
+At this point in the seder, it is customary for {{ Name of person in the video conference // // __ is with us tonight // Josh }} to {{ engage in an activity // square dance  // he always loves to _____ // yodel }}
 
 So, to keep with tradition, please do this so that we may move forward.
 
 [[STAGE DIRECTION: Dramatically Pause]]
 
-Ok now, everyone hold up some matzoh while we all sing to bless this breadless bread.
+Ok now, everyone hold up some matzah while we all sing to bless this breadless bread.
 
      בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, הַמּוֹצִיא לֶֽחֶם מִן הָאָֽרֶץ:
 
@@ -756,7 +702,7 @@ al achilat matzah.
 
 # Justa little bittah more | maror
 
-We now sing as we spread delicious charoset and religiously-significant (kinda gross) maror on so-gross-it-has-to-be-religiously-significant matzoh. This represents the bittersweetness of doing rituals when you’re hungry. Just dip--do not eat.
+We now sing as we spread delicious charoset and religiously-significant (kinda gross) maror on so-gross-it-has-to-be-religiously-significant matzah. This represents the bittersweetness of doing rituals when you’re hungry. The sweetness represents {{ something good about life // friends and family // // leisure }}. Just dip--do not eat.
 
     בָּרוּךְ אַתָּה יְיַָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֹתָיו וְצִוָּֽנוּ עַל אֲכִילַת מָרוֹר:
 
@@ -770,7 +716,7 @@ al achilat maror.
 
 ## Eat, but not the meal | koreich
 
-We now eat this {{ collection of foods that doesn’t go together well // cream cheese popsicle // after trying a ____ he decided he wouldn’t eat that ever again // cream cheese tuna popsicle }} as our ancestors did before us. It symbolizes misery, we think.
+We now eat this {{ collection of foods that doesn’t go together well // cream cheese popsicle // after trying a ____ he decided he wouldn’t eat that ever again // cream cheese tuna popsicle }} as our ancestors did before us. In the words of the great Rabbi {{ Jewish-sounding name // Shmuel Baruchstein //  ____ // Shapiroberg }}, this symbolizes {{ something bittersweet // saying goodbye // // sweet sorrow }}.
 
 ## # {{ Page }}
 
@@ -802,13 +748,13 @@ Please have your third glass of wine (we hope you didn’t have any more wine du
 
 # Elijah’s cup. Ghosts like getting drunk, too!
 
-Elijah can not only open doors, but he can get into a zoom meeting without the password. He’s here right now. Pour him a drink and tell him how your really feel. Repeat after me.
+Elijah can not only open doors, but he can get into a Zoom meeting without the password. He’s here right now. Pour him a drink and tell him how you really feel. Repeat after me.
 
 Thank you Elijah for being such a(n) {{ adjective // funny // // awful }} spirit.
 
 Everyone!
 
-Thank you Elijah for being such a(n) (adjective from above) spirit.
+[[All repeat what was just said, like “Thank you Elijah…”]]
 
 Now let's sing!
 
@@ -846,7 +792,7 @@ Now let's sing!
 
 ## The FOURTH glass of wine
 
-As we drink this last cup of wine, we contemplate what we want for this year. I, for one, want {{ a thing I want // money // he wants ____ // tacos }}. As we sing, we praise God, we appreciate one another, and we cherish the time we have together and the memories we create. And this lengthy Haggadah we write every year.
+As we drink this last cup of wine, we contemplate what we want for this year. I, for one, want {{ a thing you want // money // I want ____ // tacos }}. As we sing, we praise God, we appreciate one another, and we cherish the time we have together and the memories we create. And this lengthy, unique Haggadah we have created together.
 
     בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הַגָּפֶן:
 
@@ -859,41 +805,3 @@ As we drink this last cup of wine, we contemplate what we want for this year. I,
     L’shana haba-ah biy’rushalayim!
 
 ## Next year in person!
-
-# {{ Page }}
-
-# Notes
-
-Pharaoh swimming in a pool of frogs
-
-In beginning, maybe introduce all the items on the seder plate.
-
-In kadeish: {{ something virtuous women can make you do }}
-
-Read through the example scripts, and lib out meanings (four cups means X) and examples.
-
-{{ a very Jewish-sounding name }}
-
-We are gathered virtually because we do not exist just in the flesh
-
-One of us hopes that {{ something you hope for the future }}
-
-{{ something you do to elevate your love for God }}
-
-{{ something that would be an actual sacrifice }}, to remind us of how the ancients used to sacrifice lambs.
-
-The son who knows not how to ask: This is more of a comment, really. I command...I order, I insist, I proclaim that. Also, {{ nonsense gibberish }}.
-
-{{ how God introduces Herself }}
-
-{{ a name for God }}
-
-{{ something you do when you’re in a rush }} represented the haste of our departure
-
-{{ Let’s pick up the pace here }}
-
-This past year hasn’t been all bad. For one of us, this past year meant {{ something good that happened in the past year }}.
-
-{{ Something you need to do become a Pharoah }}
-
-In karpas: Acknowledge the little losses of the past year
