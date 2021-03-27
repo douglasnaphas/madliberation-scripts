@@ -110,7 +110,7 @@ The time for the first cup of wine is almost upon us. If you don’t have Passov
 
 Let us bless before we imbibe.
 
-בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הַגָּפֶן:
+    בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הַגָּפֶן:
 
     Baruch Atah Adonai, Eloheinu Melech ha-olam, borei p’ree hagafen.
 
@@ -414,7 +414,7 @@ If we were to stop reading this Haggadah right now, eat our meal, and then say t
 
 However, for our ancestors long, long ago in the land of Egypt, it was never enough. So let’s do them this honor, lift our glasses, which by now should be full of {{ a liquid // gasoline // ___ is a liquid // plasma }}, and sing a little song about how we used to be slaves.
 
-בָדִים הָיִינוּ הָיִינוּ. עַתָּה בְּנֵי חוֹרִין:
+    בָדִים הָיִינוּ הָיִינוּ. עַתָּה בְּנֵי חוֹרִין:
 
     Avadim hayinu. Ata b’nei chorin.
 
@@ -602,25 +602,25 @@ This is summed up best in a 5-minute song.
 
 [[STAGE DIRECTION: All sing Dayeinu.]]
 
-אִלּוּ הוֹצִיאָֽנוּ מִמִּצְרַֽיִם, דַּיֵּנוּ:
+    אִלּוּ הוֹצִיאָֽנוּ מִמִּצְרַֽיִם, דַּיֵּנוּ:
 
     Ilu hotzianu mi-mitzrayim, Dayeinu
 
     If God had only taken us out of Egypt, that would have been enough!
 
-אִלּוּ נָתַן לָֽנוּ אֶת־הַתּוֹרָה, דַּיֵּנוּ:
+    אִלּוּ נָתַן לָֽנוּ אֶת־הַתּוֹרָה, דַּיֵּנוּ:
 
     Ilu natan lanu et ha-Torah, Dayeinu
 
     If God had only given us the Torah, that would have been enough.
 
-אִלּוּ הוֹצִיאָֽנוּ מִמִּצְרַֽיִם, דַּיֵּנוּ:
+    אִלּוּ הוֹצִיאָֽנוּ מִמִּצְרַֽיִם, דַּיֵּנוּ:
 
     Ilu hotzianu mi-mitzrayim, Dayeinu
 
     If God had only taken us out of Egypt, that would have been enough!
 
-אִלּוּ נָתַן לָֽנוּ אֶת־הַתּוֹרָה, דַּיֵּנוּ:
+    אִלּוּ נָתַן לָֽנוּ אֶת־הַתּוֹרָה, דַּיֵּנוּ:
 
     Ilu natan lanu et ha-Torah, Dayeinu
 
@@ -648,7 +648,7 @@ Lastly, but not the last thing before we eat, this {{ barely edible item // this
 
 This is our {{very old birthday number // millionth // On my __ birthday // 140th }} glass of wine. Sing.
 
-בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הַגָּפֶן:
+    בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הַגָּפֶן:
 
     Baruch Atah Adonai, Eloheinu Melech ha-olam, borei p’ree hagafen.
 
@@ -666,11 +666,11 @@ As we pretend to wash our hands, say this with me. Do NOT sing this.
 
     בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֹתָיו, וְצִוָּנוּ
 
-עַל נְטִילַת יָדָֽיִם:
+    עַל נְטִילַת יָדָֽיִם:
 
     Baruch Atah Adonai, Eloheinu Melech ha-olam, asher kid’shanu b’mitzvotav v’tzivanu
 
-al n’tilat yadayim.
+    al n’tilat yadayim.
 
 # # {{ Page }}
 
@@ -690,7 +690,7 @@ Ok now, everyone hold up some matzah while we all sing to bless this breadless b
 
     We praise God, Ruler of Everything, who brings bread from the land.
 
-בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֹתַָיו וְצִוָּֽנוּ עַל אֲכִילַת מַצָּה:
+    בָּרוּךְ אַתָּה יְיָ, אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֹתַָיו וְצִוָּֽנוּ עַל אֲכִילַת מַצָּה:
 
     Baruch Atah Adonai, Eloheinu Melech ha-olam, asher kid’shanu b’mitzvotav v’tzivanu
 
@@ -708,7 +708,7 @@ We now sing as we spread delicious charoset and religiously-significant (kinda g
 
     Baruch Atah Adonai, Eloheinu Melech ha-olam, asher kid’shanu b’mitzvotav v’tzivanu
 
-al achilat maror.
+    al achilat maror.
 
     We praise God, Ruler of Everything, who made us holy through obligations, commanding us to eat bitter herbs.
 
@@ -758,15 +758,15 @@ Everyone!
 
 Now let's sing!
 
-אֵלִיָּֽהוּ הַנָּבִיא, אֵלִיָּֽהוּ הַתִּשְׁבִּי,
+    אֵלִיָּֽהוּ הַנָּבִיא, אֵלִיָּֽהוּ הַתִּשְׁבִּי,
 
-אֵלִיָּֽהוּ, אֵלִיָּֽהוּ,אֵלִיָּֽהוּ הַגִּלְעָדִי.
+    אֵלִיָּֽהוּ, אֵלִיָּֽהוּ,אֵלִיָּֽהוּ הַגִּלְעָדִי.
 
-בִּמְהֵרָה בְיָמֵֽנוּ יָבוֹא אֵלֵֽינוּ
+    בִּמְהֵרָה בְיָמֵֽנוּ יָבוֹא אֵלֵֽינוּ
 
-עִם מָשִֽׁיחַ בֶּן דָּוִד,
+    עִם מָשִֽׁיחַ בֶּן דָּוִד,
 
-עִם מָשִֽׁיחַ בֶּן דָּוִד.
+    עִם מָשִֽׁיחַ בֶּן דָּוִד.
 
     Eliyahu hanavi
 
